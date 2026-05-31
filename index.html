@@ -220,7 +220,24 @@ input:matches([type="email"], [type="text"]) {
         .button, .button-main, .button-secondary, .btn, .w-button {
             border-radius: 12px !important; /* Re-add rounded corners just in case */
         }
-        </style></head><body class="theme-color-blue" data-barba="wrapper"><div class="page-wrapper"><div class="global_elements"><div class="styles-wrap"><div class="global-styles w-embed"><style>
+        </style>
+<script>
+(function() {
+    let currentTitle = document.title;
+    const titleEl = document.querySelector('title');
+    Object.defineProperty(document, 'title', {
+        get: function() { return currentTitle; },
+        set: function(val) {
+            if (!val.includes("Come back")) {
+                currentTitle = val;
+                if (titleEl) titleEl.textContent = val;
+            }
+        },
+        configurable: true
+    });
+})();
+</script>
+</head><body class="theme-color-blue" data-barba="wrapper"><div class="page-wrapper"><div class="global_elements"><div class="styles-wrap"><div class="global-styles w-embed"><style>
 
 /* Make text look crisper and more legible in all browsers */
 body {
