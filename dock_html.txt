@@ -1,0 +1,103 @@
+<div class="home-tab-link-slot">
+ <div class="home-tab-item" role="presentation">
+  <button aria-label="View tab" aria-selected="false" class="home-tab-item__link" data-tab-link="sales-tracker" role="tab" tabindex="-1">
+   <img alt="" class="home-tab-link-image" loading="lazy" src="https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e049e7f06e589413747b_Sales%20Tracker%20-%20Large.svg"/>
+  </button>
+  <div class="home-tab-item__tooltip">
+   <div>
+    Financial
+   </div>
+  </div>
+ </div>
+ <div class="home-tab-item" role="presentation">
+  <button aria-label="View tab" aria-selected="false" class="home-tab-item__link" data-tab-link="portfolio" role="tab" tabindex="-1">
+   <img alt="" class="home-tab-link-image" loading="lazy" src="https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e049b02c89db7a46a810_Portfolio%20-%20Large.svg"/>
+  </button>
+  <div class="home-tab-item__tooltip" style=" ">
+   <div>
+    Healthcare
+   </div>
+  </div>
+ </div>
+ <div class="home-tab-item" role="presentation" style=" ">
+  <button aria-label="View tab" aria-selected="false" class="home-tab-item__link" data-tab-link="shop-library" role="tab" style=" " tabindex="-1">
+   <img alt="" class="home-tab-link-image" loading="lazy" src="https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e04a1560ba8c7772e465_Shop%20library%20-%20Large.svg"/>
+  </button>
+  <div class="home-tab-item__tooltip" style=" ">
+   <div>
+    Retail
+   </div>
+  </div>
+ </div>
+ <div class="home-tab-item" role="presentation" style="  display: none !important; display: none !important;">
+  <button aria-label="View tab" aria-selected="false" class="home-tab-item__link" data-tab-link="ad-library" role="tab" style=" " tabindex="-1">
+   <img alt="" class="home-tab-link-image" loading="lazy" src="https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e04905f691180e6f7041_Ad%20Library%20-%20Large.svg"/>
+  </button>
+  <div class="home-tab-item__tooltip" style=" ">
+   <div>
+    Healthcare Access
+   </div>
+  </div>
+ </div>
+ <div class="home-tab-item" role="presentation" style="  display: none !important; display: none !important;">
+  <button aria-label="View tab" aria-selected="false" class="home-tab-item__link" data-tab-link="product-library" role="tab" style=" " tabindex="-1">
+   <img alt="" class="home-tab-link-image" loading="lazy" src="https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e04916b44cc26b43d5f2_Product%20Library%20-%20Large.svg"/>
+  </button>
+  <div class="home-tab-item__tooltip" style=" ">
+   <div>
+    Agentic Commerce
+   </div>
+  </div>
+ </div>
+ <div class="home-tab-item" role="presentation" style="  display: none !important; display: none !important;">
+  <button aria-label="View tab" aria-selected="false" class="home-tab-item__link" data-tab-link="advertiser-tracker" role="tab" style=" " tabindex="-1">
+   <img alt="" class="home-tab-link-image" loading="lazy" src="https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e049edeb09d8a84e3f42_Advertiser%20Tracker%20-%20Large.svg"/>
+  </button>
+  <div class="home-tab-item__tooltip" style=" ">
+   <div>
+    Advertiser Tracker
+   </div>
+  </div>
+ </div>
+ <div class="home-tab-item" role="presentation" style=" ">
+  <button aria-label="View tab" aria-selected="false" class="home-tab-item__link" data-tab-link="competitors" role="tab" style=" " tabindex="-1">
+   <img alt="" class="home-tab-link-image" loading="lazy" src="https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e049eb8586abe837fbf7_Competitor%20Research%20-%20Large.svg"/>
+  </button>
+  <div class="home-tab-item__tooltip" style=" ">
+   <div>
+    Logistics
+   </div>
+  </div>
+ </div>
+ <div class="home-tab-item" role="presentation" style="  display: none !important; display: none !important;">
+  <button aria-label="View tab" aria-selected="false" class="home-tab-item__link" data-tab-link="advertiser-library" role="tab" style=" " tabindex="-1">
+   <img alt="" class="home-tab-link-image" loading="lazy" src="https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e0491ad7aa6fc3e17393_Advertiser%20Library%20-%20Large.svg"/>
+  </button>
+  <div class="home-tab-item__tooltip" style=" ">
+   <div>
+    Advertiser Library
+   </div>
+  </div>
+ </div>
+ <div class="home-tab-item" role="presentation" style=" ">
+  <button aria-label="View tab" aria-selected="true" class="home-tab-item__link w--current" data-tab-link="magic-ai-search" role="tab" style=" " tabindex="0">
+   <img alt="" class="home-tab-link-image" loading="lazy" src="https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e04942a31660d0ae2461_Magic%20AI%20Search%20-%20Large.svg"/>
+  </button>
+  <div class="home-tab-item__tooltip" style=" ">
+   <div>
+    AI Agents
+   </div>
+  </div>
+ </div>
+ <div class="home-tab-item" role="presentation" style="  display: none !important; display: none !important;">
+  <button aria-label="View tab" aria-selected="false" class="home-tab-item__link" data-tab-link="creator-library" role="tab" style=" " tabindex="-1">
+   <img alt="" class="home-tab-link-image" loading="lazy" src="https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e8d021229102cc44b29c78_Creator%20Library%2C%20Large.svg"/>
+  </button>
+  <div class="home-tab-item__tooltip" style=" ">
+   <div>
+    Creator Library
+   </div>
+  </div>
+ </div>
+</div>
+
