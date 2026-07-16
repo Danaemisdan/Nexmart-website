@@ -1,0 +1,1938 @@
+# Production Cleanup Report
+
+## agentic-commerce.html
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_1'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_2'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_3'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_4'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_5'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_6'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_7'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_8'
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e06854cc77bd7fd79272_Ad%20Library%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e0683c28d37d54a2dd48_Advertiser%20Tracker%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e8d0334a9c5be49bb70e33_Creator%20Library%2C%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e06831e27963bd87b2c7_Product%20Library%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e0689a2ae2a7c86cd982_Advertiser%20Library%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068b114be9ed905af36_Sales%20Tracker%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e0688a41540f3b10904f_Shop%20library%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068afbcdfc701c61cfe_Portfolio%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068af1fc268dc9c06fc_Competitor%20Research%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068986b6c148516748e_Magic%20AI%20Search%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e03a10f096fe744c958464_Video%20Thumbnail.svg
+- Added descriptive alt 'Nexmart Company Logo' to ./ChatGPT Image May 31, 2026, 01_17_29 PM.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068567f647cc67bd200_Pre-built%20store%20-%20Small.svg
+- Added descriptive alt 'Nexmart Company Logo' to ./ChatGPT Image May 31, 2026, 01_17_29 PM.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e06895189808eaeae7fe_Blog%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e06864ebc9af48e05fc4_University%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068c9e17ae391cc043e_FAQs%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068329565a67b9809a6_About%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068e6964f94469a1347_Discord%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e0681a6346ad2e312082_Contact%20-%20Small.svg
+- Added descriptive alt 'Agentic Commerce Hero Display' to hero image.
+- Inserted TODO comment for placeholder hero image.
+- Added descriptive alt 'Agentic Commerce Hero Display' to hero image.
+- Inserted TODO comment for placeholder hero image.
+- Added descriptive alt 'Agentic Commerce Hero Display' to hero image.
+- Added descriptive alt 'Agentic Commerce Hero Display' to hero image.
+- Added descriptive alt 'Agentic Commerce Hero Display' to hero image.
+- Added descriptive alt 'Agentic Commerce Hero Display' to hero image.
+- Added descriptive alt 'Agentic Commerce Hero Display' to hero image.
+- Added descriptive alt 'Agentic Commerce Hero Display' to hero image.
+- Added descriptive alt 'Agentic Commerce Hero Display' to hero image.
+- Added descriptive alt 'Agentic Commerce Hero Display' to hero image.
+- Added descriptive alt 'Agentic Commerce Hero Display' to hero image.
+- Added descriptive alt 'Agentic Commerce Hero Display' to hero image.
+- Added descriptive alt 'Agentic Commerce Hero Display' to hero image.
+- Added descriptive alt 'Agentic Commerce Hero Display' to hero image.
+- Added descriptive alt 'Agentic Commerce Hero Display' to hero image.
+- Added descriptive alt 'Agentic Commerce Hero Display' to hero image.
+- Added descriptive alt 'Agentic Commerce Hero Display' to hero image.
+- Added descriptive alt 'Agentic Commerce Hero Display' to hero image.
+- Added descriptive alt 'Agentic Commerce Hero Display' to hero image.
+- Added descriptive alt 'Agentic Commerce Hero Display' to hero image.
+- Added descriptive alt 'Agentic Commerce Hero Display' to hero image.
+- Added descriptive alt 'Agentic Commerce Hero Display' to hero image.
+- Added descriptive alt 'Agentic Commerce Hero Display' to hero image.
+- Added descriptive alt 'Agentic Commerce Hero Display' to hero image.
+- Added descriptive alt 'Agentic Commerce Hero Display' to hero image.
+- Added descriptive alt 'Agentic Commerce Hero Display' to hero image.
+- Added descriptive alt 'Agentic Commerce Hero Display' to hero image.
+- Added descriptive alt 'Agentic Commerce Hero Display' to hero image.
+- Added descriptive alt 'Agentic Commerce Hero Display' to hero image.
+- Added descriptive alt 'Agentic Commerce Hero Display' to hero image.
+- Added descriptive alt 'Agentic Commerce Hero Display' to hero image.
+- Added descriptive alt 'Agentic Commerce Hero Display' to hero image.
+- Added descriptive alt 'Agentic Commerce Hero Display' to hero image.
+- Added descriptive alt 'Agentic Commerce Hero Display' to hero image.
+- Added descriptive alt 'Agentic Commerce Hero Display' to hero image.
+- Added descriptive alt 'Agentic Commerce Hero Display' to hero image.
+- Added descriptive alt 'Agentic Commerce Hero Display' to hero image.
+- Added descriptive alt 'Agentic Commerce Hero Display' to hero image.
+- Added descriptive alt 'Agentic Commerce Hero Display' to hero image.
+- Added descriptive alt 'Agentic Commerce Hero Display' to hero image.
+- Added descriptive alt 'Agentic Commerce Hero Display' to hero image.
+- Added descriptive alt 'Agentic Commerce Hero Display' to hero image.
+- Added descriptive alt 'Agentic Commerce Hero Display' to hero image.
+- Added descriptive alt 'Agentic Commerce Hero Display' to hero image.
+- Added descriptive alt 'Agentic Commerce Hero Display' to hero image.
+- Added descriptive alt 'Agentic Commerce Hero Display' to hero image.
+- Added descriptive alt 'Agentic Commerce Hero Display' to hero image.
+- Added descriptive alt 'Agentic Commerce Hero Display' to hero image.
+- Added descriptive alt 'Agentic Commerce Hero Display' to hero image.
+- Added descriptive alt 'Agentic Commerce Hero Display' to hero image.
+- Added descriptive alt 'Agentic Commerce Hero Display' to hero image.
+- Added descriptive alt 'Agentic Commerce Hero Display' to hero image.
+- Added descriptive alt 'Agentic Commerce Hero Display' to hero image.
+- Added descriptive alt 'Agentic Commerce Hero Display' to hero image.
+- Added descriptive alt 'Agentic Commerce Hero Display' to hero image.
+- Added descriptive alt 'Agentic Commerce Hero Display' to hero image.
+- Added descriptive alt 'Agentic Commerce Hero Display' to hero image.
+- Inserted TODO comment for placeholder hero image.
+- Added descriptive alt 'Agentic Commerce Hero Display' to hero image.
+- Added descriptive alt 'Agentic Commerce Interface Overview' to overview image.
+- Added descriptive alt 'Agentic Commerce Interface Overview' to overview image.
+- Added descriptive alt 'Agentic Commerce Interface Overview' to overview image.
+- Added descriptive alt 'Agentic Commerce Interface Overview' to overview image.
+- Added descriptive alt 'Agentic Commerce Interface Overview' to overview image.
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1d57c8e51f664db4bdec6_Eye%20-%20Blue%20Glass%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e7f6b277f0c31643f62a55_7fd3b13564873b52dbec6363e8bf55b1_Handsfree.webp
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1d57cda700fa77fbe9c79_Time%20-%20Blue%20Glass%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e7f6b225cd47adea51220a_16b120df83a07d42ec7b3ff015b76df3_Save%20time%20%26%20money.webp
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1d57c8875306e5a9982d2_Tag%20-%20Blue%20Glass%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e7f6b292c55da3fac354f5_fb32aa16027a9d38f084041be87c1f8a_One%20sale%2C%20bill%20paid.webp
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1d57c1b4adc92db4d8737_Pie%20Chart%20-%20Blue%20Glass%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e7f6b2e92b23bfd8ace691_07b5542ceafebe4ac452cf953c809465_Extensive%20insights.webp
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1d57c1f09a0185e4eb27f_Notification%20-%20Blue%20Glass%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e7f6b234b5b1cc4941887f_c197b83d10c16073e64740d65e2caa6b_Stay%20up%20to%20date.webp
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1d57c7556a03a91f6584d_Compass%20-%20Blue%20Glass%20-%20Medium.svg
+- Added alt='' (decorative) to ./Untitled design (83).png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69cf8acf7b6b15b3e187f017_Arrow%20Left.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69cf8acf7b6b15b3e187f017_Arrow%20Left.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69cf8acf110d18af6299f255_Arrow%20Right.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69cf8acf110d18af6299f255_Arrow%20Right.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a98965fa4e4a71b5_Download%20-%20White%20-%20Small.svg
+- Added descriptive alt 'Nexmart Company Logo' to ./ChatGPT Image May 31, 2026, 01_17_29 PM.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e049e7f06e589413747b_Sales%20Tracker%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e049b02c89db7a46a810_Portfolio%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e04a1560ba8c7772e465_Shop%20library%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e04905f691180e6f7041_Ad%20Library%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e04916b44cc26b43d5f2_Product%20Library%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e049eb8586abe837fbf7_Competitor%20Research%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e0491ad7aa6fc3e17393_Advertiser%20Library%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e04942a31660d0ae2461_Magic%20AI%20Search%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e8d021229102cc44b29c78_Creator%20Library%2C%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e0634867cb48db626ee4_Sales%20Tracker%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05b7ee91b5d11f00e40_Portfolio%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05b9ea94922fedc73fa_Shop%20library%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05b96691c3f03242dad_Ad%20Library%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05cafe1e1f15474006b_Product%20Library%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05ba6eb16dc7aadd961_Competitor%20Research%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05b7a3dcbb4cc1d1deb_Advertiser%20Library%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05b7bb8f1d52d6f3745_Magic%20AI%20Search%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e8d02c22e35e3011c826a1_Creator%20Library%2C%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69cb35feed2f2c513f5e8866_612e0dbe83bb7236d572d99dc221dfad_footer-graphic.webp
+- Added descriptive alt 'Nexmart Company Logo' to ./ChatGPT Image May 31, 2026, 01_17_29 PM.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1cda53c28d37d54a24b83_%20Chevron%20Right%20-%20Black%20-%20Small.svg
+- Added descriptive alt 'Nexmart Company Logo' to ./ChatGPT Image May 31, 2026, 01_17_29 PM.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d3226c57af2ce480f5d6a0_Instagram%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d3226c57af2ce480f5d6a0_Instagram%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d3226cf326e606e1a3ab24_TikTok%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d3226cf326e606e1a3ab24_TikTok%20-%20White%20-%20Small.svg
+## magic-ai-search.html
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_1'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_2'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_3'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_4'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_5'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_6'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_7'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_8'
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e06854cc77bd7fd79272_Ad%20Library%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e0683c28d37d54a2dd48_Advertiser%20Tracker%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e8d0334a9c5be49bb70e33_Creator%20Library%2C%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e06831e27963bd87b2c7_Product%20Library%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e0689a2ae2a7c86cd982_Advertiser%20Library%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068b114be9ed905af36_Sales%20Tracker%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e0688a41540f3b10904f_Shop%20library%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068afbcdfc701c61cfe_Portfolio%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068af1fc268dc9c06fc_Competitor%20Research%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068986b6c148516748e_Magic%20AI%20Search%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e03a10f096fe744c958464_Video%20Thumbnail.svg
+- Added descriptive alt 'Nexmart Company Logo' to ./ChatGPT Image May 31, 2026, 01_17_29 PM.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068567f647cc67bd200_Pre-built%20store%20-%20Small.svg
+- Added descriptive alt 'Nexmart Company Logo' to ./ChatGPT Image May 31, 2026, 01_17_29 PM.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e06895189808eaeae7fe_Blog%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e06864ebc9af48e05fc4_University%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068c9e17ae391cc043e_FAQs%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068329565a67b9809a6_About%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068e6964f94469a1347_Discord%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e0681a6346ad2e312082_Contact%20-%20Small.svg
+- Added descriptive alt 'Magic AI Search Hero Display' to hero image.
+- Inserted TODO comment for placeholder hero image.
+- Added descriptive alt 'Magic AI Search Hero Display' to hero image.
+- Inserted TODO comment for placeholder hero image.
+- Added descriptive alt 'Magic AI Search Hero Display' to hero image.
+- Added descriptive alt 'Magic AI Search Hero Display' to hero image.
+- Added descriptive alt 'Magic AI Search Hero Display' to hero image.
+- Added descriptive alt 'Magic AI Search Hero Display' to hero image.
+- Added descriptive alt 'Magic AI Search Hero Display' to hero image.
+- Added descriptive alt 'Magic AI Search Hero Display' to hero image.
+- Added descriptive alt 'Magic AI Search Hero Display' to hero image.
+- Added descriptive alt 'Magic AI Search Hero Display' to hero image.
+- Added descriptive alt 'Magic AI Search Hero Display' to hero image.
+- Added descriptive alt 'Magic AI Search Hero Display' to hero image.
+- Added descriptive alt 'Magic AI Search Hero Display' to hero image.
+- Added descriptive alt 'Magic AI Search Hero Display' to hero image.
+- Added descriptive alt 'Magic AI Search Hero Display' to hero image.
+- Added descriptive alt 'Magic AI Search Hero Display' to hero image.
+- Added descriptive alt 'Magic AI Search Hero Display' to hero image.
+- Added descriptive alt 'Magic AI Search Hero Display' to hero image.
+- Added descriptive alt 'Magic AI Search Hero Display' to hero image.
+- Added descriptive alt 'Magic AI Search Hero Display' to hero image.
+- Added descriptive alt 'Magic AI Search Hero Display' to hero image.
+- Added descriptive alt 'Magic AI Search Hero Display' to hero image.
+- Added descriptive alt 'Magic AI Search Hero Display' to hero image.
+- Added descriptive alt 'Magic AI Search Hero Display' to hero image.
+- Added descriptive alt 'Magic AI Search Hero Display' to hero image.
+- Added descriptive alt 'Magic AI Search Hero Display' to hero image.
+- Added descriptive alt 'Magic AI Search Hero Display' to hero image.
+- Added descriptive alt 'Magic AI Search Hero Display' to hero image.
+- Added descriptive alt 'Magic AI Search Hero Display' to hero image.
+- Added descriptive alt 'Magic AI Search Hero Display' to hero image.
+- Added descriptive alt 'Magic AI Search Hero Display' to hero image.
+- Added descriptive alt 'Magic AI Search Hero Display' to hero image.
+- Added descriptive alt 'Magic AI Search Hero Display' to hero image.
+- Added descriptive alt 'Magic AI Search Hero Display' to hero image.
+- Added descriptive alt 'Magic AI Search Hero Display' to hero image.
+- Added descriptive alt 'Magic AI Search Hero Display' to hero image.
+- Added descriptive alt 'Magic AI Search Hero Display' to hero image.
+- Added descriptive alt 'Magic AI Search Hero Display' to hero image.
+- Added descriptive alt 'Magic AI Search Hero Display' to hero image.
+- Added descriptive alt 'Magic AI Search Hero Display' to hero image.
+- Added descriptive alt 'Magic AI Search Hero Display' to hero image.
+- Added descriptive alt 'Magic AI Search Hero Display' to hero image.
+- Added descriptive alt 'Magic AI Search Hero Display' to hero image.
+- Added descriptive alt 'Magic AI Search Hero Display' to hero image.
+- Added descriptive alt 'Magic AI Search Hero Display' to hero image.
+- Added descriptive alt 'Magic AI Search Hero Display' to hero image.
+- Added descriptive alt 'Magic AI Search Hero Display' to hero image.
+- Added descriptive alt 'Magic AI Search Hero Display' to hero image.
+- Added descriptive alt 'Magic AI Search Hero Display' to hero image.
+- Added descriptive alt 'Magic AI Search Hero Display' to hero image.
+- Added descriptive alt 'Magic AI Search Hero Display' to hero image.
+- Added descriptive alt 'Magic AI Search Hero Display' to hero image.
+- Added descriptive alt 'Magic AI Search Hero Display' to hero image.
+- Added descriptive alt 'Magic AI Search Hero Display' to hero image.
+- Added descriptive alt 'Magic AI Search Hero Display' to hero image.
+- Added descriptive alt 'Magic AI Search Hero Display' to hero image.
+- Added descriptive alt 'Magic AI Search Hero Display' to hero image.
+- Inserted TODO comment for placeholder hero image.
+- Added descriptive alt 'Magic AI Search Hero Display' to hero image.
+- Added descriptive alt 'Magic AI Search Interface Overview' to overview image.
+- Added descriptive alt 'Magic AI Search Interface Overview' to overview image.
+- Added descriptive alt 'Magic AI Search Interface Overview' to overview image.
+- Added descriptive alt 'Magic AI Search Interface Overview' to overview image.
+- Added descriptive alt 'Magic AI Search Interface Overview' to overview image.
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1d57c8e51f664db4bdec6_Eye%20-%20Blue%20Glass%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e7f6b277f0c31643f62a55_7fd3b13564873b52dbec6363e8bf55b1_Handsfree.webp
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1d57cda700fa77fbe9c79_Time%20-%20Blue%20Glass%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e7f6b225cd47adea51220a_16b120df83a07d42ec7b3ff015b76df3_Save%20time%20%26%20money.webp
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1d57c8875306e5a9982d2_Tag%20-%20Blue%20Glass%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e7f6b292c55da3fac354f5_fb32aa16027a9d38f084041be87c1f8a_One%20sale%2C%20bill%20paid.webp
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1d57c1b4adc92db4d8737_Pie%20Chart%20-%20Blue%20Glass%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e7f6b2e92b23bfd8ace691_07b5542ceafebe4ac452cf953c809465_Extensive%20insights.webp
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1d57c1f09a0185e4eb27f_Notification%20-%20Blue%20Glass%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e7f6b234b5b1cc4941887f_c197b83d10c16073e64740d65e2caa6b_Stay%20up%20to%20date.webp
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1d57c7556a03a91f6584d_Compass%20-%20Blue%20Glass%20-%20Medium.svg
+- Added alt='' (decorative) to ./Untitled design (83).png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69cf8acf7b6b15b3e187f017_Arrow%20Left.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69cf8acf7b6b15b3e187f017_Arrow%20Left.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69cf8acf110d18af6299f255_Arrow%20Right.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69cf8acf110d18af6299f255_Arrow%20Right.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a98965fa4e4a71b5_Download%20-%20White%20-%20Small.svg
+- Added descriptive alt 'Nexmart Company Logo' to ./ChatGPT Image May 31, 2026, 01_17_29 PM.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e049e7f06e589413747b_Sales%20Tracker%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e049b02c89db7a46a810_Portfolio%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e04a1560ba8c7772e465_Shop%20library%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e04905f691180e6f7041_Ad%20Library%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e04916b44cc26b43d5f2_Product%20Library%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e049eb8586abe837fbf7_Competitor%20Research%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e0491ad7aa6fc3e17393_Advertiser%20Library%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e04942a31660d0ae2461_Magic%20AI%20Search%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e8d021229102cc44b29c78_Creator%20Library%2C%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e0634867cb48db626ee4_Sales%20Tracker%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05b7ee91b5d11f00e40_Portfolio%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05b9ea94922fedc73fa_Shop%20library%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05b96691c3f03242dad_Ad%20Library%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05cafe1e1f15474006b_Product%20Library%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05ba6eb16dc7aadd961_Competitor%20Research%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05b7a3dcbb4cc1d1deb_Advertiser%20Library%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05b7bb8f1d52d6f3745_Magic%20AI%20Search%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e8d02c22e35e3011c826a1_Creator%20Library%2C%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69cb35feed2f2c513f5e8866_612e0dbe83bb7236d572d99dc221dfad_footer-graphic.webp
+- Added descriptive alt 'Nexmart Company Logo' to ./ChatGPT Image May 31, 2026, 01_17_29 PM.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1cda53c28d37d54a24b83_%20Chevron%20Right%20-%20Black%20-%20Small.svg
+- Added descriptive alt 'Nexmart Company Logo' to ./ChatGPT Image May 31, 2026, 01_17_29 PM.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d3226c57af2ce480f5d6a0_Instagram%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d3226c57af2ce480f5d6a0_Instagram%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d3226cf326e606e1a3ab24_TikTok%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d3226cf326e606e1a3ab24_TikTok%20-%20White%20-%20Small.svg
+## advertiser-tracker.html
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_1'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_2'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_3'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_4'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_5'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_6'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_7'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_8'
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e06854cc77bd7fd79272_Ad%20Library%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e0683c28d37d54a2dd48_Advertiser%20Tracker%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e8d0334a9c5be49bb70e33_Creator%20Library%2C%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e06831e27963bd87b2c7_Product%20Library%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e0689a2ae2a7c86cd982_Advertiser%20Library%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068b114be9ed905af36_Sales%20Tracker%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e0688a41540f3b10904f_Shop%20library%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068afbcdfc701c61cfe_Portfolio%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068af1fc268dc9c06fc_Competitor%20Research%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068986b6c148516748e_Magic%20AI%20Search%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e03a10f096fe744c958464_Video%20Thumbnail.svg
+- Added descriptive alt 'Nexmart Company Logo' to ./ChatGPT Image May 31, 2026, 01_17_29 PM.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068567f647cc67bd200_Pre-built%20store%20-%20Small.svg
+- Added descriptive alt 'Nexmart Company Logo' to ./ChatGPT Image May 31, 2026, 01_17_29 PM.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e06895189808eaeae7fe_Blog%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e06864ebc9af48e05fc4_University%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068c9e17ae391cc043e_FAQs%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068329565a67b9809a6_About%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068e6964f94469a1347_Discord%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e0681a6346ad2e312082_Contact%20-%20Small.svg
+- Added descriptive alt 'Advertiser Tracker Hero Display' to hero image.
+- Inserted TODO comment for placeholder hero image.
+- Added descriptive alt 'Advertiser Tracker Hero Display' to hero image.
+- Inserted TODO comment for placeholder hero image.
+- Added descriptive alt 'Advertiser Tracker Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Tracker Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Tracker Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Tracker Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Tracker Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Tracker Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Tracker Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Tracker Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Tracker Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Tracker Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Tracker Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Tracker Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Tracker Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Tracker Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Tracker Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Tracker Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Tracker Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Tracker Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Tracker Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Tracker Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Tracker Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Tracker Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Tracker Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Tracker Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Tracker Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Tracker Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Tracker Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Tracker Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Tracker Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Tracker Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Tracker Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Tracker Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Tracker Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Tracker Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Tracker Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Tracker Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Tracker Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Tracker Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Tracker Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Tracker Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Tracker Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Tracker Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Tracker Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Tracker Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Tracker Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Tracker Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Tracker Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Tracker Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Tracker Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Tracker Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Tracker Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Tracker Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Tracker Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Tracker Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Tracker Hero Display' to hero image.
+- Inserted TODO comment for placeholder hero image.
+- Added descriptive alt 'Advertiser Tracker Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Tracker Interface Overview' to overview image.
+- Added descriptive alt 'Advertiser Tracker Interface Overview' to overview image.
+- Added descriptive alt 'Advertiser Tracker Interface Overview' to overview image.
+- Added descriptive alt 'Advertiser Tracker Interface Overview' to overview image.
+- Added descriptive alt 'Advertiser Tracker Interface Overview' to overview image.
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1d57c8e51f664db4bdec6_Eye%20-%20Blue%20Glass%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e7f6b277f0c31643f62a55_7fd3b13564873b52dbec6363e8bf55b1_Handsfree.webp
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1d57cda700fa77fbe9c79_Time%20-%20Blue%20Glass%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e7f6b225cd47adea51220a_16b120df83a07d42ec7b3ff015b76df3_Save%20time%20%26%20money.webp
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1d57c8875306e5a9982d2_Tag%20-%20Blue%20Glass%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e7f6b292c55da3fac354f5_fb32aa16027a9d38f084041be87c1f8a_One%20sale%2C%20bill%20paid.webp
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1d57c1b4adc92db4d8737_Pie%20Chart%20-%20Blue%20Glass%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e7f6b2e92b23bfd8ace691_07b5542ceafebe4ac452cf953c809465_Extensive%20insights.webp
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1d57c1f09a0185e4eb27f_Notification%20-%20Blue%20Glass%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e7f6b234b5b1cc4941887f_c197b83d10c16073e64740d65e2caa6b_Stay%20up%20to%20date.webp
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1d57c7556a03a91f6584d_Compass%20-%20Blue%20Glass%20-%20Medium.svg
+- Added alt='' (decorative) to ./Untitled design (83).png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69cf8acf7b6b15b3e187f017_Arrow%20Left.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69cf8acf7b6b15b3e187f017_Arrow%20Left.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69cf8acf110d18af6299f255_Arrow%20Right.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69cf8acf110d18af6299f255_Arrow%20Right.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a98965fa4e4a71b5_Download%20-%20White%20-%20Small.svg
+- Added descriptive alt 'Nexmart Company Logo' to ./ChatGPT Image May 31, 2026, 01_17_29 PM.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e049e7f06e589413747b_Sales%20Tracker%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e049b02c89db7a46a810_Portfolio%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e04a1560ba8c7772e465_Shop%20library%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e04905f691180e6f7041_Ad%20Library%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e04916b44cc26b43d5f2_Product%20Library%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e049eb8586abe837fbf7_Competitor%20Research%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e0491ad7aa6fc3e17393_Advertiser%20Library%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e04942a31660d0ae2461_Magic%20AI%20Search%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e8d021229102cc44b29c78_Creator%20Library%2C%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e0634867cb48db626ee4_Sales%20Tracker%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05b7ee91b5d11f00e40_Portfolio%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05b9ea94922fedc73fa_Shop%20library%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05b96691c3f03242dad_Ad%20Library%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05cafe1e1f15474006b_Product%20Library%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05ba6eb16dc7aadd961_Competitor%20Research%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05b7a3dcbb4cc1d1deb_Advertiser%20Library%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05b7bb8f1d52d6f3745_Magic%20AI%20Search%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e8d02c22e35e3011c826a1_Creator%20Library%2C%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69cb35feed2f2c513f5e8866_612e0dbe83bb7236d572d99dc221dfad_footer-graphic.webp
+- Added descriptive alt 'Nexmart Company Logo' to ./ChatGPT Image May 31, 2026, 01_17_29 PM.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1cda53c28d37d54a24b83_%20Chevron%20Right%20-%20Black%20-%20Small.svg
+- Added descriptive alt 'Nexmart Company Logo' to ./ChatGPT Image May 31, 2026, 01_17_29 PM.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d3226c57af2ce480f5d6a0_Instagram%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d3226c57af2ce480f5d6a0_Instagram%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d3226cf326e606e1a3ab24_TikTok%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d3226cf326e606e1a3ab24_TikTok%20-%20White%20-%20Small.svg
+## advertiser-library.html
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_1'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_2'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_3'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_4'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_5'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_6'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_7'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_8'
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e06854cc77bd7fd79272_Ad%20Library%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e0683c28d37d54a2dd48_Advertiser%20Tracker%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e8d0334a9c5be49bb70e33_Creator%20Library%2C%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e06831e27963bd87b2c7_Product%20Library%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e0689a2ae2a7c86cd982_Advertiser%20Library%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068b114be9ed905af36_Sales%20Tracker%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e0688a41540f3b10904f_Shop%20library%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068afbcdfc701c61cfe_Portfolio%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068af1fc268dc9c06fc_Competitor%20Research%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068986b6c148516748e_Magic%20AI%20Search%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e03a10f096fe744c958464_Video%20Thumbnail.svg
+- Added descriptive alt 'Nexmart Company Logo' to ./ChatGPT Image May 31, 2026, 01_17_29 PM.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068567f647cc67bd200_Pre-built%20store%20-%20Small.svg
+- Added descriptive alt 'Nexmart Company Logo' to ./ChatGPT Image May 31, 2026, 01_17_29 PM.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e06895189808eaeae7fe_Blog%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e06864ebc9af48e05fc4_University%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068c9e17ae391cc043e_FAQs%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068329565a67b9809a6_About%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068e6964f94469a1347_Discord%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e0681a6346ad2e312082_Contact%20-%20Small.svg
+- Added descriptive alt 'Advertiser Library Hero Display' to hero image.
+- Inserted TODO comment for placeholder hero image.
+- Added descriptive alt 'Advertiser Library Hero Display' to hero image.
+- Inserted TODO comment for placeholder hero image.
+- Added descriptive alt 'Advertiser Library Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Library Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Library Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Library Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Library Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Library Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Library Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Library Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Library Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Library Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Library Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Library Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Library Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Library Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Library Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Library Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Library Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Library Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Library Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Library Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Library Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Library Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Library Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Library Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Library Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Library Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Library Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Library Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Library Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Library Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Library Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Library Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Library Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Library Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Library Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Library Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Library Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Library Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Library Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Library Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Library Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Library Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Library Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Library Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Library Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Library Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Library Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Library Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Library Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Library Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Library Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Library Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Library Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Library Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Library Hero Display' to hero image.
+- Inserted TODO comment for placeholder hero image.
+- Added descriptive alt 'Advertiser Library Hero Display' to hero image.
+- Added descriptive alt 'Advertiser Library Interface Overview' to overview image.
+- Added descriptive alt 'Advertiser Library Interface Overview' to overview image.
+- Added descriptive alt 'Advertiser Library Interface Overview' to overview image.
+- Added descriptive alt 'Advertiser Library Interface Overview' to overview image.
+- Added descriptive alt 'Advertiser Library Interface Overview' to overview image.
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1d57c8e51f664db4bdec6_Eye%20-%20Blue%20Glass%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e7f6b277f0c31643f62a55_7fd3b13564873b52dbec6363e8bf55b1_Handsfree.webp
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1d57cda700fa77fbe9c79_Time%20-%20Blue%20Glass%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e7f6b225cd47adea51220a_16b120df83a07d42ec7b3ff015b76df3_Save%20time%20%26%20money.webp
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1d57c8875306e5a9982d2_Tag%20-%20Blue%20Glass%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e7f6b292c55da3fac354f5_fb32aa16027a9d38f084041be87c1f8a_One%20sale%2C%20bill%20paid.webp
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1d57c1b4adc92db4d8737_Pie%20Chart%20-%20Blue%20Glass%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e7f6b2e92b23bfd8ace691_07b5542ceafebe4ac452cf953c809465_Extensive%20insights.webp
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1d57c1f09a0185e4eb27f_Notification%20-%20Blue%20Glass%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e7f6b234b5b1cc4941887f_c197b83d10c16073e64740d65e2caa6b_Stay%20up%20to%20date.webp
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1d57c7556a03a91f6584d_Compass%20-%20Blue%20Glass%20-%20Medium.svg
+- Added alt='' (decorative) to ./Untitled design (83).png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69cf8acf7b6b15b3e187f017_Arrow%20Left.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69cf8acf7b6b15b3e187f017_Arrow%20Left.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69cf8acf110d18af6299f255_Arrow%20Right.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69cf8acf110d18af6299f255_Arrow%20Right.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a98965fa4e4a71b5_Download%20-%20White%20-%20Small.svg
+- Added descriptive alt 'Nexmart Company Logo' to ./ChatGPT Image May 31, 2026, 01_17_29 PM.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e049e7f06e589413747b_Sales%20Tracker%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e049b02c89db7a46a810_Portfolio%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e04a1560ba8c7772e465_Shop%20library%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e04905f691180e6f7041_Ad%20Library%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e04916b44cc26b43d5f2_Product%20Library%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e049eb8586abe837fbf7_Competitor%20Research%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e0491ad7aa6fc3e17393_Advertiser%20Library%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e04942a31660d0ae2461_Magic%20AI%20Search%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e8d021229102cc44b29c78_Creator%20Library%2C%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e0634867cb48db626ee4_Sales%20Tracker%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05b7ee91b5d11f00e40_Portfolio%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05b9ea94922fedc73fa_Shop%20library%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05b96691c3f03242dad_Ad%20Library%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05cafe1e1f15474006b_Product%20Library%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05ba6eb16dc7aadd961_Competitor%20Research%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05b7a3dcbb4cc1d1deb_Advertiser%20Library%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05b7bb8f1d52d6f3745_Magic%20AI%20Search%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e8d02c22e35e3011c826a1_Creator%20Library%2C%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69cb35feed2f2c513f5e8866_612e0dbe83bb7236d572d99dc221dfad_footer-graphic.webp
+- Added descriptive alt 'Nexmart Company Logo' to ./ChatGPT Image May 31, 2026, 01_17_29 PM.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1cda53c28d37d54a24b83_%20Chevron%20Right%20-%20Black%20-%20Small.svg
+- Added descriptive alt 'Nexmart Company Logo' to ./ChatGPT Image May 31, 2026, 01_17_29 PM.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d3226c57af2ce480f5d6a0_Instagram%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d3226c57af2ce480f5d6a0_Instagram%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d3226cf326e606e1a3ab24_TikTok%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d3226cf326e606e1a3ab24_TikTok%20-%20White%20-%20Small.svg
+## portfolio.html
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_1'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_2'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_3'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_4'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_5'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_6'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_7'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_8'
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e06854cc77bd7fd79272_Ad%20Library%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e0683c28d37d54a2dd48_Advertiser%20Tracker%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e8d0334a9c5be49bb70e33_Creator%20Library%2C%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e06831e27963bd87b2c7_Product%20Library%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e0689a2ae2a7c86cd982_Advertiser%20Library%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068b114be9ed905af36_Sales%20Tracker%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e0688a41540f3b10904f_Shop%20library%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068afbcdfc701c61cfe_Portfolio%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068af1fc268dc9c06fc_Competitor%20Research%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068986b6c148516748e_Magic%20AI%20Search%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e03a10f096fe744c958464_Video%20Thumbnail.svg
+- Added descriptive alt 'Nexmart Company Logo' to ./ChatGPT Image May 31, 2026, 01_17_29 PM.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068567f647cc67bd200_Pre-built%20store%20-%20Small.svg
+- Added descriptive alt 'Nexmart Company Logo' to ./ChatGPT Image May 31, 2026, 01_17_29 PM.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e06895189808eaeae7fe_Blog%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e06864ebc9af48e05fc4_University%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068c9e17ae391cc043e_FAQs%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068329565a67b9809a6_About%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068e6964f94469a1347_Discord%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e0681a6346ad2e312082_Contact%20-%20Small.svg
+- Added descriptive alt 'Portfolio Hero Display' to hero image.
+- Inserted TODO comment for placeholder hero image.
+- Added descriptive alt 'Portfolio Hero Display' to hero image.
+- Inserted TODO comment for placeholder hero image.
+- Added descriptive alt 'Portfolio Hero Display' to hero image.
+- Added descriptive alt 'Portfolio Hero Display' to hero image.
+- Added descriptive alt 'Portfolio Hero Display' to hero image.
+- Added descriptive alt 'Portfolio Hero Display' to hero image.
+- Added descriptive alt 'Portfolio Hero Display' to hero image.
+- Added descriptive alt 'Portfolio Hero Display' to hero image.
+- Added descriptive alt 'Portfolio Hero Display' to hero image.
+- Added descriptive alt 'Portfolio Hero Display' to hero image.
+- Added descriptive alt 'Portfolio Hero Display' to hero image.
+- Added descriptive alt 'Portfolio Hero Display' to hero image.
+- Added descriptive alt 'Portfolio Hero Display' to hero image.
+- Added descriptive alt 'Portfolio Hero Display' to hero image.
+- Added descriptive alt 'Portfolio Hero Display' to hero image.
+- Added descriptive alt 'Portfolio Hero Display' to hero image.
+- Added descriptive alt 'Portfolio Hero Display' to hero image.
+- Added descriptive alt 'Portfolio Hero Display' to hero image.
+- Added descriptive alt 'Portfolio Hero Display' to hero image.
+- Added descriptive alt 'Portfolio Hero Display' to hero image.
+- Added descriptive alt 'Portfolio Hero Display' to hero image.
+- Added descriptive alt 'Portfolio Hero Display' to hero image.
+- Added descriptive alt 'Portfolio Hero Display' to hero image.
+- Added descriptive alt 'Portfolio Hero Display' to hero image.
+- Added descriptive alt 'Portfolio Hero Display' to hero image.
+- Added descriptive alt 'Portfolio Hero Display' to hero image.
+- Added descriptive alt 'Portfolio Hero Display' to hero image.
+- Added descriptive alt 'Portfolio Hero Display' to hero image.
+- Added descriptive alt 'Portfolio Hero Display' to hero image.
+- Added descriptive alt 'Portfolio Hero Display' to hero image.
+- Added descriptive alt 'Portfolio Hero Display' to hero image.
+- Added descriptive alt 'Portfolio Hero Display' to hero image.
+- Added descriptive alt 'Portfolio Hero Display' to hero image.
+- Added descriptive alt 'Portfolio Hero Display' to hero image.
+- Added descriptive alt 'Portfolio Hero Display' to hero image.
+- Added descriptive alt 'Portfolio Hero Display' to hero image.
+- Added descriptive alt 'Portfolio Hero Display' to hero image.
+- Added descriptive alt 'Portfolio Hero Display' to hero image.
+- Added descriptive alt 'Portfolio Hero Display' to hero image.
+- Added descriptive alt 'Portfolio Hero Display' to hero image.
+- Added descriptive alt 'Portfolio Hero Display' to hero image.
+- Added descriptive alt 'Portfolio Hero Display' to hero image.
+- Added descriptive alt 'Portfolio Hero Display' to hero image.
+- Added descriptive alt 'Portfolio Hero Display' to hero image.
+- Added descriptive alt 'Portfolio Hero Display' to hero image.
+- Added descriptive alt 'Portfolio Hero Display' to hero image.
+- Added descriptive alt 'Portfolio Hero Display' to hero image.
+- Added descriptive alt 'Portfolio Hero Display' to hero image.
+- Added descriptive alt 'Portfolio Hero Display' to hero image.
+- Added descriptive alt 'Portfolio Hero Display' to hero image.
+- Added descriptive alt 'Portfolio Hero Display' to hero image.
+- Added descriptive alt 'Portfolio Hero Display' to hero image.
+- Added descriptive alt 'Portfolio Hero Display' to hero image.
+- Added descriptive alt 'Portfolio Hero Display' to hero image.
+- Added descriptive alt 'Portfolio Hero Display' to hero image.
+- Added descriptive alt 'Portfolio Hero Display' to hero image.
+- Added descriptive alt 'Portfolio Hero Display' to hero image.
+- Inserted TODO comment for placeholder hero image.
+- Added descriptive alt 'Portfolio Hero Display' to hero image.
+- Added descriptive alt 'Portfolio Interface Overview' to overview image.
+- Added descriptive alt 'Portfolio Interface Overview' to overview image.
+- Added descriptive alt 'Portfolio Interface Overview' to overview image.
+- Added descriptive alt 'Portfolio Interface Overview' to overview image.
+- Added descriptive alt 'Portfolio Interface Overview' to overview image.
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1d57c8e51f664db4bdec6_Eye%20-%20Blue%20Glass%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e7f6b277f0c31643f62a55_7fd3b13564873b52dbec6363e8bf55b1_Handsfree.webp
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1d57cda700fa77fbe9c79_Time%20-%20Blue%20Glass%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e7f6b225cd47adea51220a_16b120df83a07d42ec7b3ff015b76df3_Save%20time%20%26%20money.webp
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1d57c8875306e5a9982d2_Tag%20-%20Blue%20Glass%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e7f6b292c55da3fac354f5_fb32aa16027a9d38f084041be87c1f8a_One%20sale%2C%20bill%20paid.webp
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1d57c1b4adc92db4d8737_Pie%20Chart%20-%20Blue%20Glass%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e7f6b2e92b23bfd8ace691_07b5542ceafebe4ac452cf953c809465_Extensive%20insights.webp
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1d57c1f09a0185e4eb27f_Notification%20-%20Blue%20Glass%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e7f6b234b5b1cc4941887f_c197b83d10c16073e64740d65e2caa6b_Stay%20up%20to%20date.webp
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1d57c7556a03a91f6584d_Compass%20-%20Blue%20Glass%20-%20Medium.svg
+- Added alt='' (decorative) to ./Untitled design (83).png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69cf8acf7b6b15b3e187f017_Arrow%20Left.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69cf8acf7b6b15b3e187f017_Arrow%20Left.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69cf8acf110d18af6299f255_Arrow%20Right.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69cf8acf110d18af6299f255_Arrow%20Right.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a98965fa4e4a71b5_Download%20-%20White%20-%20Small.svg
+- Added descriptive alt 'Nexmart Company Logo' to ./ChatGPT Image May 31, 2026, 01_17_29 PM.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e049e7f06e589413747b_Sales%20Tracker%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e049b02c89db7a46a810_Portfolio%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e04a1560ba8c7772e465_Shop%20library%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e04905f691180e6f7041_Ad%20Library%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e04916b44cc26b43d5f2_Product%20Library%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e049eb8586abe837fbf7_Competitor%20Research%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e0491ad7aa6fc3e17393_Advertiser%20Library%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e04942a31660d0ae2461_Magic%20AI%20Search%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e8d021229102cc44b29c78_Creator%20Library%2C%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e0634867cb48db626ee4_Sales%20Tracker%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05b7ee91b5d11f00e40_Portfolio%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05b9ea94922fedc73fa_Shop%20library%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05b96691c3f03242dad_Ad%20Library%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05cafe1e1f15474006b_Product%20Library%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05ba6eb16dc7aadd961_Competitor%20Research%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05b7a3dcbb4cc1d1deb_Advertiser%20Library%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05b7bb8f1d52d6f3745_Magic%20AI%20Search%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e8d02c22e35e3011c826a1_Creator%20Library%2C%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69cb35feed2f2c513f5e8866_612e0dbe83bb7236d572d99dc221dfad_footer-graphic.webp
+- Added descriptive alt 'Nexmart Company Logo' to ./ChatGPT Image May 31, 2026, 01_17_29 PM.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1cda53c28d37d54a24b83_%20Chevron%20Right%20-%20Black%20-%20Small.svg
+- Added descriptive alt 'Nexmart Company Logo' to ./ChatGPT Image May 31, 2026, 01_17_29 PM.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d3226c57af2ce480f5d6a0_Instagram%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d3226c57af2ce480f5d6a0_Instagram%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d3226cf326e606e1a3ab24_TikTok%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d3226cf326e606e1a3ab24_TikTok%20-%20White%20-%20Small.svg
+## creator-library.html
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_1'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_2'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_3'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_4'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_5'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_6'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_7'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_8'
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e06854cc77bd7fd79272_Ad%20Library%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e0683c28d37d54a2dd48_Advertiser%20Tracker%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e8d0334a9c5be49bb70e33_Creator%20Library%2C%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e06831e27963bd87b2c7_Product%20Library%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e0689a2ae2a7c86cd982_Advertiser%20Library%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068b114be9ed905af36_Sales%20Tracker%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e0688a41540f3b10904f_Shop%20library%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068afbcdfc701c61cfe_Portfolio%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068af1fc268dc9c06fc_Competitor%20Research%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068986b6c148516748e_Magic%20AI%20Search%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e03a10f096fe744c958464_Video%20Thumbnail.svg
+- Added descriptive alt 'Nexmart Company Logo' to ./ChatGPT Image May 31, 2026, 01_17_29 PM.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068567f647cc67bd200_Pre-built%20store%20-%20Small.svg
+- Added descriptive alt 'Nexmart Company Logo' to ./ChatGPT Image May 31, 2026, 01_17_29 PM.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e06895189808eaeae7fe_Blog%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e06864ebc9af48e05fc4_University%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068c9e17ae391cc043e_FAQs%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068329565a67b9809a6_About%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068e6964f94469a1347_Discord%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e0681a6346ad2e312082_Contact%20-%20Small.svg
+- Added descriptive alt 'Creator Library Hero Display' to hero image.
+- Inserted TODO comment for placeholder hero image.
+- Added descriptive alt 'Creator Library Hero Display' to hero image.
+- Inserted TODO comment for placeholder hero image.
+- Added descriptive alt 'Creator Library Hero Display' to hero image.
+- Added descriptive alt 'Creator Library Hero Display' to hero image.
+- Added descriptive alt 'Creator Library Hero Display' to hero image.
+- Added descriptive alt 'Creator Library Hero Display' to hero image.
+- Added descriptive alt 'Creator Library Hero Display' to hero image.
+- Added descriptive alt 'Creator Library Hero Display' to hero image.
+- Added descriptive alt 'Creator Library Hero Display' to hero image.
+- Added descriptive alt 'Creator Library Hero Display' to hero image.
+- Added descriptive alt 'Creator Library Hero Display' to hero image.
+- Added descriptive alt 'Creator Library Hero Display' to hero image.
+- Added descriptive alt 'Creator Library Hero Display' to hero image.
+- Added descriptive alt 'Creator Library Hero Display' to hero image.
+- Added descriptive alt 'Creator Library Hero Display' to hero image.
+- Added descriptive alt 'Creator Library Hero Display' to hero image.
+- Added descriptive alt 'Creator Library Hero Display' to hero image.
+- Added descriptive alt 'Creator Library Hero Display' to hero image.
+- Added descriptive alt 'Creator Library Hero Display' to hero image.
+- Added descriptive alt 'Creator Library Hero Display' to hero image.
+- Added descriptive alt 'Creator Library Hero Display' to hero image.
+- Added descriptive alt 'Creator Library Hero Display' to hero image.
+- Added descriptive alt 'Creator Library Hero Display' to hero image.
+- Added descriptive alt 'Creator Library Hero Display' to hero image.
+- Added descriptive alt 'Creator Library Hero Display' to hero image.
+- Added descriptive alt 'Creator Library Hero Display' to hero image.
+- Added descriptive alt 'Creator Library Hero Display' to hero image.
+- Added descriptive alt 'Creator Library Hero Display' to hero image.
+- Added descriptive alt 'Creator Library Hero Display' to hero image.
+- Added descriptive alt 'Creator Library Hero Display' to hero image.
+- Added descriptive alt 'Creator Library Hero Display' to hero image.
+- Added descriptive alt 'Creator Library Hero Display' to hero image.
+- Added descriptive alt 'Creator Library Hero Display' to hero image.
+- Added descriptive alt 'Creator Library Hero Display' to hero image.
+- Added descriptive alt 'Creator Library Hero Display' to hero image.
+- Added descriptive alt 'Creator Library Hero Display' to hero image.
+- Added descriptive alt 'Creator Library Hero Display' to hero image.
+- Added descriptive alt 'Creator Library Hero Display' to hero image.
+- Added descriptive alt 'Creator Library Hero Display' to hero image.
+- Added descriptive alt 'Creator Library Hero Display' to hero image.
+- Added descriptive alt 'Creator Library Hero Display' to hero image.
+- Added descriptive alt 'Creator Library Hero Display' to hero image.
+- Added descriptive alt 'Creator Library Hero Display' to hero image.
+- Added descriptive alt 'Creator Library Hero Display' to hero image.
+- Added descriptive alt 'Creator Library Hero Display' to hero image.
+- Added descriptive alt 'Creator Library Hero Display' to hero image.
+- Added descriptive alt 'Creator Library Hero Display' to hero image.
+- Added descriptive alt 'Creator Library Hero Display' to hero image.
+- Added descriptive alt 'Creator Library Hero Display' to hero image.
+- Added descriptive alt 'Creator Library Hero Display' to hero image.
+- Added descriptive alt 'Creator Library Hero Display' to hero image.
+- Added descriptive alt 'Creator Library Hero Display' to hero image.
+- Added descriptive alt 'Creator Library Hero Display' to hero image.
+- Added descriptive alt 'Creator Library Hero Display' to hero image.
+- Added descriptive alt 'Creator Library Hero Display' to hero image.
+- Added descriptive alt 'Creator Library Hero Display' to hero image.
+- Added descriptive alt 'Creator Library Hero Display' to hero image.
+- Inserted TODO comment for placeholder hero image.
+- Added descriptive alt 'Creator Library Hero Display' to hero image.
+- Added descriptive alt 'Creator Library Interface Overview' to overview image.
+- Added descriptive alt 'Creator Library Interface Overview' to overview image.
+- Added descriptive alt 'Creator Library Interface Overview' to overview image.
+- Added descriptive alt 'Creator Library Interface Overview' to overview image.
+- Added descriptive alt 'Creator Library Interface Overview' to overview image.
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1d57c8e51f664db4bdec6_Eye%20-%20Blue%20Glass%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e7f6b277f0c31643f62a55_7fd3b13564873b52dbec6363e8bf55b1_Handsfree.webp
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1d57cda700fa77fbe9c79_Time%20-%20Blue%20Glass%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e7f6b225cd47adea51220a_16b120df83a07d42ec7b3ff015b76df3_Save%20time%20%26%20money.webp
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1d57c8875306e5a9982d2_Tag%20-%20Blue%20Glass%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e7f6b292c55da3fac354f5_fb32aa16027a9d38f084041be87c1f8a_One%20sale%2C%20bill%20paid.webp
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1d57c1b4adc92db4d8737_Pie%20Chart%20-%20Blue%20Glass%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e7f6b2e92b23bfd8ace691_07b5542ceafebe4ac452cf953c809465_Extensive%20insights.webp
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1d57c1f09a0185e4eb27f_Notification%20-%20Blue%20Glass%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e7f6b234b5b1cc4941887f_c197b83d10c16073e64740d65e2caa6b_Stay%20up%20to%20date.webp
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1d57c7556a03a91f6584d_Compass%20-%20Blue%20Glass%20-%20Medium.svg
+- Added alt='' (decorative) to ./Untitled design (83).png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69cf8acf7b6b15b3e187f017_Arrow%20Left.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69cf8acf7b6b15b3e187f017_Arrow%20Left.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69cf8acf110d18af6299f255_Arrow%20Right.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69cf8acf110d18af6299f255_Arrow%20Right.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a98965fa4e4a71b5_Download%20-%20White%20-%20Small.svg
+- Added descriptive alt 'Nexmart Company Logo' to ./ChatGPT Image May 31, 2026, 01_17_29 PM.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e049e7f06e589413747b_Sales%20Tracker%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e049b02c89db7a46a810_Portfolio%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e04a1560ba8c7772e465_Shop%20library%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e04905f691180e6f7041_Ad%20Library%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e04916b44cc26b43d5f2_Product%20Library%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e049eb8586abe837fbf7_Competitor%20Research%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e0491ad7aa6fc3e17393_Advertiser%20Library%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e04942a31660d0ae2461_Magic%20AI%20Search%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e8d021229102cc44b29c78_Creator%20Library%2C%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e0634867cb48db626ee4_Sales%20Tracker%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05b7ee91b5d11f00e40_Portfolio%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05b9ea94922fedc73fa_Shop%20library%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05b96691c3f03242dad_Ad%20Library%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05cafe1e1f15474006b_Product%20Library%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05ba6eb16dc7aadd961_Competitor%20Research%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05b7a3dcbb4cc1d1deb_Advertiser%20Library%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05b7bb8f1d52d6f3745_Magic%20AI%20Search%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e8d02c22e35e3011c826a1_Creator%20Library%2C%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69cb35feed2f2c513f5e8866_612e0dbe83bb7236d572d99dc221dfad_footer-graphic.webp
+- Added descriptive alt 'Nexmart Company Logo' to ./ChatGPT Image May 31, 2026, 01_17_29 PM.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1cda53c28d37d54a24b83_%20Chevron%20Right%20-%20Black%20-%20Small.svg
+- Added descriptive alt 'Nexmart Company Logo' to ./ChatGPT Image May 31, 2026, 01_17_29 PM.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d3226c57af2ce480f5d6a0_Instagram%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d3226c57af2ce480f5d6a0_Instagram%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d3226cf326e606e1a3ab24_TikTok%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d3226cf326e606e1a3ab24_TikTok%20-%20White%20-%20Small.svg
+## financial-inclusion.html
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_1'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_2'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_3'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_4'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_5'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_6'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_7'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_8'
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e06854cc77bd7fd79272_Ad%20Library%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e0683c28d37d54a2dd48_Advertiser%20Tracker%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e8d0334a9c5be49bb70e33_Creator%20Library%2C%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e06831e27963bd87b2c7_Product%20Library%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e0689a2ae2a7c86cd982_Advertiser%20Library%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068b114be9ed905af36_Sales%20Tracker%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e0688a41540f3b10904f_Shop%20library%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068afbcdfc701c61cfe_Portfolio%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068af1fc268dc9c06fc_Competitor%20Research%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068986b6c148516748e_Magic%20AI%20Search%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e03a10f096fe744c958464_Video%20Thumbnail.svg
+- Added descriptive alt 'Nexmart Company Logo' to ./ChatGPT Image May 31, 2026, 01_17_29 PM.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068567f647cc67bd200_Pre-built%20store%20-%20Small.svg
+- Added descriptive alt 'Nexmart Company Logo' to ./ChatGPT Image May 31, 2026, 01_17_29 PM.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e06895189808eaeae7fe_Blog%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e06864ebc9af48e05fc4_University%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068c9e17ae391cc043e_FAQs%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068329565a67b9809a6_About%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068e6964f94469a1347_Discord%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e0681a6346ad2e312082_Contact%20-%20Small.svg
+- Added descriptive alt 'Financial Inclusion Hero Display' to hero image.
+- Inserted TODO comment for placeholder hero image.
+- Added descriptive alt 'Financial Inclusion Hero Display' to hero image.
+- Inserted TODO comment for placeholder hero image.
+- Added descriptive alt 'Financial Inclusion Hero Display' to hero image.
+- Added descriptive alt 'Financial Inclusion Hero Display' to hero image.
+- Added descriptive alt 'Financial Inclusion Hero Display' to hero image.
+- Added descriptive alt 'Financial Inclusion Hero Display' to hero image.
+- Added descriptive alt 'Financial Inclusion Hero Display' to hero image.
+- Added descriptive alt 'Financial Inclusion Hero Display' to hero image.
+- Added descriptive alt 'Financial Inclusion Hero Display' to hero image.
+- Added descriptive alt 'Financial Inclusion Hero Display' to hero image.
+- Added descriptive alt 'Financial Inclusion Hero Display' to hero image.
+- Added descriptive alt 'Financial Inclusion Hero Display' to hero image.
+- Added descriptive alt 'Financial Inclusion Hero Display' to hero image.
+- Added descriptive alt 'Financial Inclusion Hero Display' to hero image.
+- Added descriptive alt 'Financial Inclusion Hero Display' to hero image.
+- Added descriptive alt 'Financial Inclusion Hero Display' to hero image.
+- Added descriptive alt 'Financial Inclusion Hero Display' to hero image.
+- Added descriptive alt 'Financial Inclusion Hero Display' to hero image.
+- Added descriptive alt 'Financial Inclusion Hero Display' to hero image.
+- Added descriptive alt 'Financial Inclusion Hero Display' to hero image.
+- Added descriptive alt 'Financial Inclusion Hero Display' to hero image.
+- Added descriptive alt 'Financial Inclusion Hero Display' to hero image.
+- Added descriptive alt 'Financial Inclusion Hero Display' to hero image.
+- Added descriptive alt 'Financial Inclusion Hero Display' to hero image.
+- Added descriptive alt 'Financial Inclusion Hero Display' to hero image.
+- Added descriptive alt 'Financial Inclusion Hero Display' to hero image.
+- Added descriptive alt 'Financial Inclusion Hero Display' to hero image.
+- Added descriptive alt 'Financial Inclusion Hero Display' to hero image.
+- Added descriptive alt 'Financial Inclusion Hero Display' to hero image.
+- Added descriptive alt 'Financial Inclusion Hero Display' to hero image.
+- Added descriptive alt 'Financial Inclusion Hero Display' to hero image.
+- Added descriptive alt 'Financial Inclusion Hero Display' to hero image.
+- Added descriptive alt 'Financial Inclusion Hero Display' to hero image.
+- Added descriptive alt 'Financial Inclusion Hero Display' to hero image.
+- Added descriptive alt 'Financial Inclusion Hero Display' to hero image.
+- Added descriptive alt 'Financial Inclusion Hero Display' to hero image.
+- Added descriptive alt 'Financial Inclusion Hero Display' to hero image.
+- Added descriptive alt 'Financial Inclusion Hero Display' to hero image.
+- Added descriptive alt 'Financial Inclusion Hero Display' to hero image.
+- Added descriptive alt 'Financial Inclusion Hero Display' to hero image.
+- Added descriptive alt 'Financial Inclusion Hero Display' to hero image.
+- Added descriptive alt 'Financial Inclusion Hero Display' to hero image.
+- Added descriptive alt 'Financial Inclusion Hero Display' to hero image.
+- Added descriptive alt 'Financial Inclusion Hero Display' to hero image.
+- Added descriptive alt 'Financial Inclusion Hero Display' to hero image.
+- Added descriptive alt 'Financial Inclusion Hero Display' to hero image.
+- Added descriptive alt 'Financial Inclusion Hero Display' to hero image.
+- Added descriptive alt 'Financial Inclusion Hero Display' to hero image.
+- Added descriptive alt 'Financial Inclusion Hero Display' to hero image.
+- Added descriptive alt 'Financial Inclusion Hero Display' to hero image.
+- Added descriptive alt 'Financial Inclusion Hero Display' to hero image.
+- Added descriptive alt 'Financial Inclusion Hero Display' to hero image.
+- Added descriptive alt 'Financial Inclusion Hero Display' to hero image.
+- Added descriptive alt 'Financial Inclusion Hero Display' to hero image.
+- Added descriptive alt 'Financial Inclusion Hero Display' to hero image.
+- Added descriptive alt 'Financial Inclusion Hero Display' to hero image.
+- Added descriptive alt 'Financial Inclusion Hero Display' to hero image.
+- Inserted TODO comment for placeholder hero image.
+- Added descriptive alt 'Financial Inclusion Hero Display' to hero image.
+- Added descriptive alt 'Financial Inclusion Interface Overview' to overview image.
+- Added descriptive alt 'Financial Inclusion Interface Overview' to overview image.
+- Added descriptive alt 'Financial Inclusion Interface Overview' to overview image.
+- Added descriptive alt 'Financial Inclusion Interface Overview' to overview image.
+- Added descriptive alt 'Financial Inclusion Interface Overview' to overview image.
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1d57c8e51f664db4bdec6_Eye%20-%20Blue%20Glass%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e7f6b277f0c31643f62a55_7fd3b13564873b52dbec6363e8bf55b1_Handsfree.webp
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1d57cda700fa77fbe9c79_Time%20-%20Blue%20Glass%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e7f6b225cd47adea51220a_16b120df83a07d42ec7b3ff015b76df3_Save%20time%20%26%20money.webp
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1d57c8875306e5a9982d2_Tag%20-%20Blue%20Glass%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e7f6b292c55da3fac354f5_fb32aa16027a9d38f084041be87c1f8a_One%20sale%2C%20bill%20paid.webp
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1d57c1b4adc92db4d8737_Pie%20Chart%20-%20Blue%20Glass%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e7f6b2e92b23bfd8ace691_07b5542ceafebe4ac452cf953c809465_Extensive%20insights.webp
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1d57c1f09a0185e4eb27f_Notification%20-%20Blue%20Glass%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e7f6b234b5b1cc4941887f_c197b83d10c16073e64740d65e2caa6b_Stay%20up%20to%20date.webp
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1d57c7556a03a91f6584d_Compass%20-%20Blue%20Glass%20-%20Medium.svg
+- Added alt='' (decorative) to ./Untitled design (83).png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69cf8acf7b6b15b3e187f017_Arrow%20Left.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69cf8acf7b6b15b3e187f017_Arrow%20Left.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69cf8acf110d18af6299f255_Arrow%20Right.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69cf8acf110d18af6299f255_Arrow%20Right.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a98965fa4e4a71b5_Download%20-%20White%20-%20Small.svg
+- Added descriptive alt 'Nexmart Company Logo' to ./ChatGPT Image May 31, 2026, 01_17_29 PM.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e049e7f06e589413747b_Sales%20Tracker%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e049b02c89db7a46a810_Portfolio%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e04a1560ba8c7772e465_Shop%20library%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e04905f691180e6f7041_Ad%20Library%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e04916b44cc26b43d5f2_Product%20Library%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e049eb8586abe837fbf7_Competitor%20Research%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e0491ad7aa6fc3e17393_Advertiser%20Library%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e04942a31660d0ae2461_Magic%20AI%20Search%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e8d021229102cc44b29c78_Creator%20Library%2C%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e0634867cb48db626ee4_Sales%20Tracker%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05b7ee91b5d11f00e40_Portfolio%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05b9ea94922fedc73fa_Shop%20library%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05b96691c3f03242dad_Ad%20Library%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05cafe1e1f15474006b_Product%20Library%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05ba6eb16dc7aadd961_Competitor%20Research%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05b7a3dcbb4cc1d1deb_Advertiser%20Library%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05b7bb8f1d52d6f3745_Magic%20AI%20Search%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e8d02c22e35e3011c826a1_Creator%20Library%2C%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69cb35feed2f2c513f5e8866_612e0dbe83bb7236d572d99dc221dfad_footer-graphic.webp
+- Added descriptive alt 'Nexmart Company Logo' to ./ChatGPT Image May 31, 2026, 01_17_29 PM.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1cda53c28d37d54a24b83_%20Chevron%20Right%20-%20Black%20-%20Small.svg
+- Added descriptive alt 'Nexmart Company Logo' to ./ChatGPT Image May 31, 2026, 01_17_29 PM.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d3226c57af2ce480f5d6a0_Instagram%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d3226c57af2ce480f5d6a0_Instagram%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d3226cf326e606e1a3ab24_TikTok%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d3226cf326e606e1a3ab24_TikTok%20-%20White%20-%20Small.svg
+## competitor-research.html
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_1'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_2'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_3'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_4'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_5'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_6'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_7'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_8'
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e06854cc77bd7fd79272_Ad%20Library%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e0683c28d37d54a2dd48_Advertiser%20Tracker%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e8d0334a9c5be49bb70e33_Creator%20Library%2C%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e06831e27963bd87b2c7_Product%20Library%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e0689a2ae2a7c86cd982_Advertiser%20Library%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068b114be9ed905af36_Sales%20Tracker%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e0688a41540f3b10904f_Shop%20library%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068afbcdfc701c61cfe_Portfolio%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068af1fc268dc9c06fc_Competitor%20Research%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068986b6c148516748e_Magic%20AI%20Search%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e03a10f096fe744c958464_Video%20Thumbnail.svg
+- Added descriptive alt 'Nexmart Company Logo' to ./ChatGPT Image May 31, 2026, 01_17_29 PM.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068567f647cc67bd200_Pre-built%20store%20-%20Small.svg
+- Added descriptive alt 'Nexmart Company Logo' to ./ChatGPT Image May 31, 2026, 01_17_29 PM.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e06895189808eaeae7fe_Blog%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e06864ebc9af48e05fc4_University%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068c9e17ae391cc043e_FAQs%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068329565a67b9809a6_About%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068e6964f94469a1347_Discord%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e0681a6346ad2e312082_Contact%20-%20Small.svg
+- Added descriptive alt 'Competitor Research Hero Display' to hero image.
+- Inserted TODO comment for placeholder hero image.
+- Added descriptive alt 'Competitor Research Hero Display' to hero image.
+- Inserted TODO comment for placeholder hero image.
+- Added descriptive alt 'Competitor Research Hero Display' to hero image.
+- Added descriptive alt 'Competitor Research Hero Display' to hero image.
+- Added descriptive alt 'Competitor Research Hero Display' to hero image.
+- Added descriptive alt 'Competitor Research Hero Display' to hero image.
+- Added descriptive alt 'Competitor Research Hero Display' to hero image.
+- Added descriptive alt 'Competitor Research Hero Display' to hero image.
+- Added descriptive alt 'Competitor Research Hero Display' to hero image.
+- Added descriptive alt 'Competitor Research Hero Display' to hero image.
+- Added descriptive alt 'Competitor Research Hero Display' to hero image.
+- Added descriptive alt 'Competitor Research Hero Display' to hero image.
+- Added descriptive alt 'Competitor Research Hero Display' to hero image.
+- Added descriptive alt 'Competitor Research Hero Display' to hero image.
+- Added descriptive alt 'Competitor Research Hero Display' to hero image.
+- Added descriptive alt 'Competitor Research Hero Display' to hero image.
+- Added descriptive alt 'Competitor Research Hero Display' to hero image.
+- Added descriptive alt 'Competitor Research Hero Display' to hero image.
+- Added descriptive alt 'Competitor Research Hero Display' to hero image.
+- Added descriptive alt 'Competitor Research Hero Display' to hero image.
+- Added descriptive alt 'Competitor Research Hero Display' to hero image.
+- Added descriptive alt 'Competitor Research Hero Display' to hero image.
+- Added descriptive alt 'Competitor Research Hero Display' to hero image.
+- Added descriptive alt 'Competitor Research Hero Display' to hero image.
+- Added descriptive alt 'Competitor Research Hero Display' to hero image.
+- Added descriptive alt 'Competitor Research Hero Display' to hero image.
+- Added descriptive alt 'Competitor Research Hero Display' to hero image.
+- Added descriptive alt 'Competitor Research Hero Display' to hero image.
+- Added descriptive alt 'Competitor Research Hero Display' to hero image.
+- Added descriptive alt 'Competitor Research Hero Display' to hero image.
+- Added descriptive alt 'Competitor Research Hero Display' to hero image.
+- Added descriptive alt 'Competitor Research Hero Display' to hero image.
+- Added descriptive alt 'Competitor Research Hero Display' to hero image.
+- Added descriptive alt 'Competitor Research Hero Display' to hero image.
+- Added descriptive alt 'Competitor Research Hero Display' to hero image.
+- Added descriptive alt 'Competitor Research Hero Display' to hero image.
+- Added descriptive alt 'Competitor Research Hero Display' to hero image.
+- Added descriptive alt 'Competitor Research Hero Display' to hero image.
+- Added descriptive alt 'Competitor Research Hero Display' to hero image.
+- Added descriptive alt 'Competitor Research Hero Display' to hero image.
+- Added descriptive alt 'Competitor Research Hero Display' to hero image.
+- Added descriptive alt 'Competitor Research Hero Display' to hero image.
+- Added descriptive alt 'Competitor Research Hero Display' to hero image.
+- Added descriptive alt 'Competitor Research Hero Display' to hero image.
+- Added descriptive alt 'Competitor Research Hero Display' to hero image.
+- Added descriptive alt 'Competitor Research Hero Display' to hero image.
+- Added descriptive alt 'Competitor Research Hero Display' to hero image.
+- Added descriptive alt 'Competitor Research Hero Display' to hero image.
+- Added descriptive alt 'Competitor Research Hero Display' to hero image.
+- Added descriptive alt 'Competitor Research Hero Display' to hero image.
+- Added descriptive alt 'Competitor Research Hero Display' to hero image.
+- Added descriptive alt 'Competitor Research Hero Display' to hero image.
+- Added descriptive alt 'Competitor Research Hero Display' to hero image.
+- Added descriptive alt 'Competitor Research Hero Display' to hero image.
+- Added descriptive alt 'Competitor Research Hero Display' to hero image.
+- Added descriptive alt 'Competitor Research Hero Display' to hero image.
+- Added descriptive alt 'Competitor Research Hero Display' to hero image.
+- Inserted TODO comment for placeholder hero image.
+- Added descriptive alt 'Competitor Research Hero Display' to hero image.
+- Added descriptive alt 'Competitor Research Interface Overview' to overview image.
+- Added descriptive alt 'Competitor Research Interface Overview' to overview image.
+- Added descriptive alt 'Competitor Research Interface Overview' to overview image.
+- Added descriptive alt 'Competitor Research Interface Overview' to overview image.
+- Added descriptive alt 'Competitor Research Interface Overview' to overview image.
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1d57c8e51f664db4bdec6_Eye%20-%20Blue%20Glass%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e7f6b277f0c31643f62a55_7fd3b13564873b52dbec6363e8bf55b1_Handsfree.webp
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1d57cda700fa77fbe9c79_Time%20-%20Blue%20Glass%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e7f6b225cd47adea51220a_16b120df83a07d42ec7b3ff015b76df3_Save%20time%20%26%20money.webp
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1d57c8875306e5a9982d2_Tag%20-%20Blue%20Glass%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e7f6b292c55da3fac354f5_fb32aa16027a9d38f084041be87c1f8a_One%20sale%2C%20bill%20paid.webp
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1d57c1b4adc92db4d8737_Pie%20Chart%20-%20Blue%20Glass%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e7f6b2e92b23bfd8ace691_07b5542ceafebe4ac452cf953c809465_Extensive%20insights.webp
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1d57c1f09a0185e4eb27f_Notification%20-%20Blue%20Glass%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e7f6b234b5b1cc4941887f_c197b83d10c16073e64740d65e2caa6b_Stay%20up%20to%20date.webp
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1d57c7556a03a91f6584d_Compass%20-%20Blue%20Glass%20-%20Medium.svg
+- Added alt='' (decorative) to ./Untitled design (83).png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69cf8acf7b6b15b3e187f017_Arrow%20Left.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69cf8acf7b6b15b3e187f017_Arrow%20Left.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69cf8acf110d18af6299f255_Arrow%20Right.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69cf8acf110d18af6299f255_Arrow%20Right.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a98965fa4e4a71b5_Download%20-%20White%20-%20Small.svg
+- Added descriptive alt 'Nexmart Company Logo' to ./ChatGPT Image May 31, 2026, 01_17_29 PM.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e049e7f06e589413747b_Sales%20Tracker%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e049b02c89db7a46a810_Portfolio%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e04a1560ba8c7772e465_Shop%20library%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e04905f691180e6f7041_Ad%20Library%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e04916b44cc26b43d5f2_Product%20Library%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e049eb8586abe837fbf7_Competitor%20Research%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e0491ad7aa6fc3e17393_Advertiser%20Library%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e04942a31660d0ae2461_Magic%20AI%20Search%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e8d021229102cc44b29c78_Creator%20Library%2C%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e0634867cb48db626ee4_Sales%20Tracker%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05b7ee91b5d11f00e40_Portfolio%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05b9ea94922fedc73fa_Shop%20library%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05b96691c3f03242dad_Ad%20Library%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05cafe1e1f15474006b_Product%20Library%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05ba6eb16dc7aadd961_Competitor%20Research%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05b7a3dcbb4cc1d1deb_Advertiser%20Library%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05b7bb8f1d52d6f3745_Magic%20AI%20Search%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e8d02c22e35e3011c826a1_Creator%20Library%2C%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69cb35feed2f2c513f5e8866_612e0dbe83bb7236d572d99dc221dfad_footer-graphic.webp
+- Added descriptive alt 'Nexmart Company Logo' to ./ChatGPT Image May 31, 2026, 01_17_29 PM.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1cda53c28d37d54a24b83_%20Chevron%20Right%20-%20Black%20-%20Small.svg
+- Added descriptive alt 'Nexmart Company Logo' to ./ChatGPT Image May 31, 2026, 01_17_29 PM.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d3226c57af2ce480f5d6a0_Instagram%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d3226c57af2ce480f5d6a0_Instagram%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d3226cf326e606e1a3ab24_TikTok%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d3226cf326e606e1a3ab24_TikTok%20-%20White%20-%20Small.svg
+## chrome-extension.html
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_1'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_2'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_3'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_4'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_5'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_6'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_7'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_8'
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e06854cc77bd7fd79272_Ad%20Library%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e0683c28d37d54a2dd48_Advertiser%20Tracker%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e8d0334a9c5be49bb70e33_Creator%20Library%2C%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e06831e27963bd87b2c7_Product%20Library%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e0689a2ae2a7c86cd982_Advertiser%20Library%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068b114be9ed905af36_Sales%20Tracker%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e0688a41540f3b10904f_Shop%20library%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068afbcdfc701c61cfe_Portfolio%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068af1fc268dc9c06fc_Competitor%20Research%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068986b6c148516748e_Magic%20AI%20Search%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e03a10f096fe744c958464_Video%20Thumbnail.svg
+- Added descriptive alt 'Nexmart Company Logo' to ./ChatGPT Image May 31, 2026, 01_17_29 PM.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068567f647cc67bd200_Pre-built%20store%20-%20Small.svg
+- Added descriptive alt 'Nexmart Company Logo' to ./ChatGPT Image May 31, 2026, 01_17_29 PM.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e06895189808eaeae7fe_Blog%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e06864ebc9af48e05fc4_University%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068c9e17ae391cc043e_FAQs%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068329565a67b9809a6_About%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068e6964f94469a1347_Discord%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e0681a6346ad2e312082_Contact%20-%20Small.svg
+- Added descriptive alt 'Chrome Extension Hero Display' to hero image.
+- Inserted TODO comment for placeholder hero image.
+- Added descriptive alt 'Chrome Extension Hero Display' to hero image.
+- Inserted TODO comment for placeholder hero image.
+- Added descriptive alt 'Chrome Extension Hero Display' to hero image.
+- Added descriptive alt 'Chrome Extension Hero Display' to hero image.
+- Added descriptive alt 'Chrome Extension Hero Display' to hero image.
+- Added descriptive alt 'Chrome Extension Hero Display' to hero image.
+- Added descriptive alt 'Chrome Extension Hero Display' to hero image.
+- Added descriptive alt 'Chrome Extension Hero Display' to hero image.
+- Added descriptive alt 'Chrome Extension Hero Display' to hero image.
+- Added descriptive alt 'Chrome Extension Hero Display' to hero image.
+- Added descriptive alt 'Chrome Extension Hero Display' to hero image.
+- Added descriptive alt 'Chrome Extension Hero Display' to hero image.
+- Added descriptive alt 'Chrome Extension Hero Display' to hero image.
+- Added descriptive alt 'Chrome Extension Hero Display' to hero image.
+- Added descriptive alt 'Chrome Extension Hero Display' to hero image.
+- Added descriptive alt 'Chrome Extension Hero Display' to hero image.
+- Added descriptive alt 'Chrome Extension Hero Display' to hero image.
+- Added descriptive alt 'Chrome Extension Hero Display' to hero image.
+- Added descriptive alt 'Chrome Extension Hero Display' to hero image.
+- Added descriptive alt 'Chrome Extension Hero Display' to hero image.
+- Added descriptive alt 'Chrome Extension Hero Display' to hero image.
+- Added descriptive alt 'Chrome Extension Hero Display' to hero image.
+- Added descriptive alt 'Chrome Extension Hero Display' to hero image.
+- Added descriptive alt 'Chrome Extension Hero Display' to hero image.
+- Added descriptive alt 'Chrome Extension Hero Display' to hero image.
+- Added descriptive alt 'Chrome Extension Hero Display' to hero image.
+- Added descriptive alt 'Chrome Extension Hero Display' to hero image.
+- Added descriptive alt 'Chrome Extension Hero Display' to hero image.
+- Added descriptive alt 'Chrome Extension Hero Display' to hero image.
+- Added descriptive alt 'Chrome Extension Hero Display' to hero image.
+- Added descriptive alt 'Chrome Extension Hero Display' to hero image.
+- Added descriptive alt 'Chrome Extension Hero Display' to hero image.
+- Added descriptive alt 'Chrome Extension Hero Display' to hero image.
+- Added descriptive alt 'Chrome Extension Hero Display' to hero image.
+- Added descriptive alt 'Chrome Extension Hero Display' to hero image.
+- Added descriptive alt 'Chrome Extension Hero Display' to hero image.
+- Added descriptive alt 'Chrome Extension Hero Display' to hero image.
+- Added descriptive alt 'Chrome Extension Hero Display' to hero image.
+- Added descriptive alt 'Chrome Extension Hero Display' to hero image.
+- Added descriptive alt 'Chrome Extension Hero Display' to hero image.
+- Added descriptive alt 'Chrome Extension Hero Display' to hero image.
+- Added descriptive alt 'Chrome Extension Hero Display' to hero image.
+- Added descriptive alt 'Chrome Extension Hero Display' to hero image.
+- Added descriptive alt 'Chrome Extension Hero Display' to hero image.
+- Added descriptive alt 'Chrome Extension Hero Display' to hero image.
+- Added descriptive alt 'Chrome Extension Hero Display' to hero image.
+- Added descriptive alt 'Chrome Extension Hero Display' to hero image.
+- Added descriptive alt 'Chrome Extension Hero Display' to hero image.
+- Added descriptive alt 'Chrome Extension Hero Display' to hero image.
+- Added descriptive alt 'Chrome Extension Hero Display' to hero image.
+- Added descriptive alt 'Chrome Extension Hero Display' to hero image.
+- Added descriptive alt 'Chrome Extension Hero Display' to hero image.
+- Added descriptive alt 'Chrome Extension Hero Display' to hero image.
+- Added descriptive alt 'Chrome Extension Hero Display' to hero image.
+- Added descriptive alt 'Chrome Extension Hero Display' to hero image.
+- Added descriptive alt 'Chrome Extension Hero Display' to hero image.
+- Added descriptive alt 'Chrome Extension Hero Display' to hero image.
+- Inserted TODO comment for placeholder hero image.
+- Added descriptive alt 'Chrome Extension Hero Display' to hero image.
+- Added descriptive alt 'Chrome Extension Interface Overview' to overview image.
+- Added descriptive alt 'Chrome Extension Interface Overview' to overview image.
+- Added descriptive alt 'Chrome Extension Interface Overview' to overview image.
+- Added descriptive alt 'Chrome Extension Interface Overview' to overview image.
+- Added descriptive alt 'Chrome Extension Interface Overview' to overview image.
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1d57c8e51f664db4bdec6_Eye%20-%20Blue%20Glass%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e7f6b277f0c31643f62a55_7fd3b13564873b52dbec6363e8bf55b1_Handsfree.webp
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1d57cda700fa77fbe9c79_Time%20-%20Blue%20Glass%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e7f6b225cd47adea51220a_16b120df83a07d42ec7b3ff015b76df3_Save%20time%20%26%20money.webp
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1d57c8875306e5a9982d2_Tag%20-%20Blue%20Glass%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e7f6b292c55da3fac354f5_fb32aa16027a9d38f084041be87c1f8a_One%20sale%2C%20bill%20paid.webp
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1d57c1b4adc92db4d8737_Pie%20Chart%20-%20Blue%20Glass%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e7f6b2e92b23bfd8ace691_07b5542ceafebe4ac452cf953c809465_Extensive%20insights.webp
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1d57c1f09a0185e4eb27f_Notification%20-%20Blue%20Glass%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e7f6b234b5b1cc4941887f_c197b83d10c16073e64740d65e2caa6b_Stay%20up%20to%20date.webp
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1d57c7556a03a91f6584d_Compass%20-%20Blue%20Glass%20-%20Medium.svg
+- Added alt='' (decorative) to ./Untitled design (83).png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69cf8acf7b6b15b3e187f017_Arrow%20Left.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69cf8acf7b6b15b3e187f017_Arrow%20Left.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69cf8acf110d18af6299f255_Arrow%20Right.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69cf8acf110d18af6299f255_Arrow%20Right.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a98965fa4e4a71b5_Download%20-%20White%20-%20Small.svg
+- Added descriptive alt 'Nexmart Company Logo' to ./ChatGPT Image May 31, 2026, 01_17_29 PM.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e049e7f06e589413747b_Sales%20Tracker%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e049b02c89db7a46a810_Portfolio%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e04a1560ba8c7772e465_Shop%20library%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e04905f691180e6f7041_Ad%20Library%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e04916b44cc26b43d5f2_Product%20Library%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e049eb8586abe837fbf7_Competitor%20Research%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e0491ad7aa6fc3e17393_Advertiser%20Library%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e04942a31660d0ae2461_Magic%20AI%20Search%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e8d021229102cc44b29c78_Creator%20Library%2C%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e0634867cb48db626ee4_Sales%20Tracker%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05b7ee91b5d11f00e40_Portfolio%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05b9ea94922fedc73fa_Shop%20library%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05b96691c3f03242dad_Ad%20Library%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05cafe1e1f15474006b_Product%20Library%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05ba6eb16dc7aadd961_Competitor%20Research%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05b7a3dcbb4cc1d1deb_Advertiser%20Library%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05b7bb8f1d52d6f3745_Magic%20AI%20Search%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e8d02c22e35e3011c826a1_Creator%20Library%2C%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69cb35feed2f2c513f5e8866_612e0dbe83bb7236d572d99dc221dfad_footer-graphic.webp
+- Added descriptive alt 'Nexmart Company Logo' to ./ChatGPT Image May 31, 2026, 01_17_29 PM.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1cda53c28d37d54a24b83_%20Chevron%20Right%20-%20Black%20-%20Small.svg
+- Added descriptive alt 'Nexmart Company Logo' to ./ChatGPT Image May 31, 2026, 01_17_29 PM.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d3226c57af2ce480f5d6a0_Instagram%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d3226c57af2ce480f5d6a0_Instagram%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d3226cf326e606e1a3ab24_TikTok%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d3226cf326e606e1a3ab24_TikTok%20-%20White%20-%20Small.svg
+## pre-built-stores.html
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_1'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_2'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_3'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_4'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_5'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_6'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_7'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_8'
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e06854cc77bd7fd79272_Ad%20Library%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e0683c28d37d54a2dd48_Advertiser%20Tracker%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e8d0334a9c5be49bb70e33_Creator%20Library%2C%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e06831e27963bd87b2c7_Product%20Library%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e0689a2ae2a7c86cd982_Advertiser%20Library%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068b114be9ed905af36_Sales%20Tracker%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e0688a41540f3b10904f_Shop%20library%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068afbcdfc701c61cfe_Portfolio%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068af1fc268dc9c06fc_Competitor%20Research%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068986b6c148516748e_Magic%20AI%20Search%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e03a10f096fe744c958464_Video%20Thumbnail.svg
+- Added descriptive alt 'Nexmart Company Logo' to ./ChatGPT Image May 31, 2026, 01_17_29 PM.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068567f647cc67bd200_Pre-built%20store%20-%20Small.svg
+- Added descriptive alt 'Nexmart Company Logo' to ./ChatGPT Image May 31, 2026, 01_17_29 PM.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e06895189808eaeae7fe_Blog%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e06864ebc9af48e05fc4_University%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068c9e17ae391cc043e_FAQs%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068329565a67b9809a6_About%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068e6964f94469a1347_Discord%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e0681a6346ad2e312082_Contact%20-%20Small.svg
+- Added descriptive alt 'Pre Hero Display' to hero image.
+- Inserted TODO comment for placeholder hero image.
+- Added descriptive alt 'Pre Hero Display' to hero image.
+- Inserted TODO comment for placeholder hero image.
+- Added descriptive alt 'Pre Hero Display' to hero image.
+- Added descriptive alt 'Pre Hero Display' to hero image.
+- Added descriptive alt 'Pre Hero Display' to hero image.
+- Added descriptive alt 'Pre Hero Display' to hero image.
+- Added descriptive alt 'Pre Hero Display' to hero image.
+- Added descriptive alt 'Pre Hero Display' to hero image.
+- Added descriptive alt 'Pre Hero Display' to hero image.
+- Added descriptive alt 'Pre Hero Display' to hero image.
+- Added descriptive alt 'Pre Hero Display' to hero image.
+- Added descriptive alt 'Pre Hero Display' to hero image.
+- Added descriptive alt 'Pre Hero Display' to hero image.
+- Added descriptive alt 'Pre Hero Display' to hero image.
+- Added descriptive alt 'Pre Hero Display' to hero image.
+- Added descriptive alt 'Pre Hero Display' to hero image.
+- Added descriptive alt 'Pre Hero Display' to hero image.
+- Added descriptive alt 'Pre Hero Display' to hero image.
+- Added descriptive alt 'Pre Hero Display' to hero image.
+- Added descriptive alt 'Pre Hero Display' to hero image.
+- Added descriptive alt 'Pre Hero Display' to hero image.
+- Added descriptive alt 'Pre Hero Display' to hero image.
+- Added descriptive alt 'Pre Hero Display' to hero image.
+- Added descriptive alt 'Pre Hero Display' to hero image.
+- Added descriptive alt 'Pre Hero Display' to hero image.
+- Added descriptive alt 'Pre Hero Display' to hero image.
+- Added descriptive alt 'Pre Hero Display' to hero image.
+- Added descriptive alt 'Pre Hero Display' to hero image.
+- Added descriptive alt 'Pre Hero Display' to hero image.
+- Added descriptive alt 'Pre Hero Display' to hero image.
+- Added descriptive alt 'Pre Hero Display' to hero image.
+- Added descriptive alt 'Pre Hero Display' to hero image.
+- Added descriptive alt 'Pre Hero Display' to hero image.
+- Added descriptive alt 'Pre Hero Display' to hero image.
+- Added descriptive alt 'Pre Hero Display' to hero image.
+- Added descriptive alt 'Pre Hero Display' to hero image.
+- Added descriptive alt 'Pre Hero Display' to hero image.
+- Added descriptive alt 'Pre Hero Display' to hero image.
+- Added descriptive alt 'Pre Hero Display' to hero image.
+- Added descriptive alt 'Pre Hero Display' to hero image.
+- Added descriptive alt 'Pre Hero Display' to hero image.
+- Added descriptive alt 'Pre Hero Display' to hero image.
+- Added descriptive alt 'Pre Hero Display' to hero image.
+- Added descriptive alt 'Pre Hero Display' to hero image.
+- Added descriptive alt 'Pre Hero Display' to hero image.
+- Added descriptive alt 'Pre Hero Display' to hero image.
+- Added descriptive alt 'Pre Hero Display' to hero image.
+- Added descriptive alt 'Pre Hero Display' to hero image.
+- Added descriptive alt 'Pre Hero Display' to hero image.
+- Added descriptive alt 'Pre Hero Display' to hero image.
+- Added descriptive alt 'Pre Hero Display' to hero image.
+- Added descriptive alt 'Pre Hero Display' to hero image.
+- Added descriptive alt 'Pre Hero Display' to hero image.
+- Added descriptive alt 'Pre Hero Display' to hero image.
+- Added descriptive alt 'Pre Hero Display' to hero image.
+- Added descriptive alt 'Pre Hero Display' to hero image.
+- Added descriptive alt 'Pre Hero Display' to hero image.
+- Inserted TODO comment for placeholder hero image.
+- Added descriptive alt 'Pre Hero Display' to hero image.
+- Added descriptive alt 'Pre Interface Overview' to overview image.
+- Added descriptive alt 'Pre Interface Overview' to overview image.
+- Added descriptive alt 'Pre Interface Overview' to overview image.
+- Added descriptive alt 'Pre Interface Overview' to overview image.
+- Added descriptive alt 'Pre Interface Overview' to overview image.
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1d57c8e51f664db4bdec6_Eye%20-%20Blue%20Glass%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e7f6b277f0c31643f62a55_7fd3b13564873b52dbec6363e8bf55b1_Handsfree.webp
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1d57cda700fa77fbe9c79_Time%20-%20Blue%20Glass%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e7f6b225cd47adea51220a_16b120df83a07d42ec7b3ff015b76df3_Save%20time%20%26%20money.webp
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1d57c8875306e5a9982d2_Tag%20-%20Blue%20Glass%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e7f6b292c55da3fac354f5_fb32aa16027a9d38f084041be87c1f8a_One%20sale%2C%20bill%20paid.webp
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1d57c1b4adc92db4d8737_Pie%20Chart%20-%20Blue%20Glass%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e7f6b2e92b23bfd8ace691_07b5542ceafebe4ac452cf953c809465_Extensive%20insights.webp
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1d57c1f09a0185e4eb27f_Notification%20-%20Blue%20Glass%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e7f6b234b5b1cc4941887f_c197b83d10c16073e64740d65e2caa6b_Stay%20up%20to%20date.webp
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1d57c7556a03a91f6584d_Compass%20-%20Blue%20Glass%20-%20Medium.svg
+- Added alt='' (decorative) to ./Untitled design (83).png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69cf8acf7b6b15b3e187f017_Arrow%20Left.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69cf8acf7b6b15b3e187f017_Arrow%20Left.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69cf8acf110d18af6299f255_Arrow%20Right.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69cf8acf110d18af6299f255_Arrow%20Right.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a98965fa4e4a71b5_Download%20-%20White%20-%20Small.svg
+- Added descriptive alt 'Nexmart Company Logo' to ./ChatGPT Image May 31, 2026, 01_17_29 PM.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e049e7f06e589413747b_Sales%20Tracker%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e049b02c89db7a46a810_Portfolio%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e04a1560ba8c7772e465_Shop%20library%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e04905f691180e6f7041_Ad%20Library%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e04916b44cc26b43d5f2_Product%20Library%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e049eb8586abe837fbf7_Competitor%20Research%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e0491ad7aa6fc3e17393_Advertiser%20Library%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e04942a31660d0ae2461_Magic%20AI%20Search%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e8d021229102cc44b29c78_Creator%20Library%2C%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e0634867cb48db626ee4_Sales%20Tracker%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05b7ee91b5d11f00e40_Portfolio%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05b9ea94922fedc73fa_Shop%20library%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05b96691c3f03242dad_Ad%20Library%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05cafe1e1f15474006b_Product%20Library%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05ba6eb16dc7aadd961_Competitor%20Research%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05b7a3dcbb4cc1d1deb_Advertiser%20Library%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05b7bb8f1d52d6f3745_Magic%20AI%20Search%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e8d02c22e35e3011c826a1_Creator%20Library%2C%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69cb35feed2f2c513f5e8866_612e0dbe83bb7236d572d99dc221dfad_footer-graphic.webp
+- Added descriptive alt 'Nexmart Company Logo' to ./ChatGPT Image May 31, 2026, 01_17_29 PM.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1cda53c28d37d54a24b83_%20Chevron%20Right%20-%20Black%20-%20Small.svg
+- Added descriptive alt 'Nexmart Company Logo' to ./ChatGPT Image May 31, 2026, 01_17_29 PM.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d3226c57af2ce480f5d6a0_Instagram%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d3226c57af2ce480f5d6a0_Instagram%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d3226cf326e606e1a3ab24_TikTok%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d3226cf326e606e1a3ab24_TikTok%20-%20White%20-%20Small.svg
+## theme-detector.html
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_1'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_2'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_3'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_4'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_5'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_6'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_7'
+- Replaced duplicate ID 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b' with 'w-node-_01f39a58-3c3a-016a-c802-534d9b967827-9b96781b_8'
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e06854cc77bd7fd79272_Ad%20Library%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e0683c28d37d54a2dd48_Advertiser%20Tracker%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e8d0334a9c5be49bb70e33_Creator%20Library%2C%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e06831e27963bd87b2c7_Product%20Library%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e0689a2ae2a7c86cd982_Advertiser%20Library%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068b114be9ed905af36_Sales%20Tracker%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e0688a41540f3b10904f_Shop%20library%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068afbcdfc701c61cfe_Portfolio%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068af1fc268dc9c06fc_Competitor%20Research%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068986b6c148516748e_Magic%20AI%20Search%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e03a10f096fe744c958464_Video%20Thumbnail.svg
+- Added descriptive alt 'Nexmart Company Logo' to ./ChatGPT Image May 31, 2026, 01_17_29 PM.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068567f647cc67bd200_Pre-built%20store%20-%20Small.svg
+- Added descriptive alt 'Nexmart Company Logo' to ./ChatGPT Image May 31, 2026, 01_17_29 PM.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e06895189808eaeae7fe_Blog%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e06864ebc9af48e05fc4_University%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068c9e17ae391cc043e_FAQs%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068329565a67b9809a6_About%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e068e6964f94469a1347_Discord%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e0681a6346ad2e312082_Contact%20-%20Small.svg
+- Added descriptive alt 'Theme Detector Hero Display' to hero image.
+- Inserted TODO comment for placeholder hero image.
+- Added descriptive alt 'Theme Detector Hero Display' to hero image.
+- Inserted TODO comment for placeholder hero image.
+- Added descriptive alt 'Theme Detector Hero Display' to hero image.
+- Added descriptive alt 'Theme Detector Hero Display' to hero image.
+- Added descriptive alt 'Theme Detector Hero Display' to hero image.
+- Added descriptive alt 'Theme Detector Hero Display' to hero image.
+- Added descriptive alt 'Theme Detector Hero Display' to hero image.
+- Added descriptive alt 'Theme Detector Hero Display' to hero image.
+- Added descriptive alt 'Theme Detector Hero Display' to hero image.
+- Added descriptive alt 'Theme Detector Hero Display' to hero image.
+- Added descriptive alt 'Theme Detector Hero Display' to hero image.
+- Added descriptive alt 'Theme Detector Hero Display' to hero image.
+- Added descriptive alt 'Theme Detector Hero Display' to hero image.
+- Added descriptive alt 'Theme Detector Hero Display' to hero image.
+- Added descriptive alt 'Theme Detector Hero Display' to hero image.
+- Added descriptive alt 'Theme Detector Hero Display' to hero image.
+- Added descriptive alt 'Theme Detector Hero Display' to hero image.
+- Added descriptive alt 'Theme Detector Hero Display' to hero image.
+- Added descriptive alt 'Theme Detector Hero Display' to hero image.
+- Added descriptive alt 'Theme Detector Hero Display' to hero image.
+- Added descriptive alt 'Theme Detector Hero Display' to hero image.
+- Added descriptive alt 'Theme Detector Hero Display' to hero image.
+- Added descriptive alt 'Theme Detector Hero Display' to hero image.
+- Added descriptive alt 'Theme Detector Hero Display' to hero image.
+- Added descriptive alt 'Theme Detector Hero Display' to hero image.
+- Added descriptive alt 'Theme Detector Hero Display' to hero image.
+- Added descriptive alt 'Theme Detector Hero Display' to hero image.
+- Added descriptive alt 'Theme Detector Hero Display' to hero image.
+- Added descriptive alt 'Theme Detector Hero Display' to hero image.
+- Added descriptive alt 'Theme Detector Hero Display' to hero image.
+- Added descriptive alt 'Theme Detector Hero Display' to hero image.
+- Added descriptive alt 'Theme Detector Hero Display' to hero image.
+- Added descriptive alt 'Theme Detector Hero Display' to hero image.
+- Added descriptive alt 'Theme Detector Hero Display' to hero image.
+- Added descriptive alt 'Theme Detector Hero Display' to hero image.
+- Added descriptive alt 'Theme Detector Hero Display' to hero image.
+- Added descriptive alt 'Theme Detector Hero Display' to hero image.
+- Added descriptive alt 'Theme Detector Hero Display' to hero image.
+- Added descriptive alt 'Theme Detector Hero Display' to hero image.
+- Added descriptive alt 'Theme Detector Hero Display' to hero image.
+- Added descriptive alt 'Theme Detector Hero Display' to hero image.
+- Added descriptive alt 'Theme Detector Hero Display' to hero image.
+- Added descriptive alt 'Theme Detector Hero Display' to hero image.
+- Added descriptive alt 'Theme Detector Hero Display' to hero image.
+- Added descriptive alt 'Theme Detector Hero Display' to hero image.
+- Added descriptive alt 'Theme Detector Hero Display' to hero image.
+- Added descriptive alt 'Theme Detector Hero Display' to hero image.
+- Added descriptive alt 'Theme Detector Hero Display' to hero image.
+- Added descriptive alt 'Theme Detector Hero Display' to hero image.
+- Added descriptive alt 'Theme Detector Hero Display' to hero image.
+- Added descriptive alt 'Theme Detector Hero Display' to hero image.
+- Added descriptive alt 'Theme Detector Hero Display' to hero image.
+- Added descriptive alt 'Theme Detector Hero Display' to hero image.
+- Added descriptive alt 'Theme Detector Hero Display' to hero image.
+- Added descriptive alt 'Theme Detector Hero Display' to hero image.
+- Added descriptive alt 'Theme Detector Hero Display' to hero image.
+- Added descriptive alt 'Theme Detector Hero Display' to hero image.
+- Inserted TODO comment for placeholder hero image.
+- Added descriptive alt 'Theme Detector Hero Display' to hero image.
+- Added descriptive alt 'Theme Detector Interface Overview' to overview image.
+- Added descriptive alt 'Theme Detector Interface Overview' to overview image.
+- Added descriptive alt 'Theme Detector Interface Overview' to overview image.
+- Added descriptive alt 'Theme Detector Interface Overview' to overview image.
+- Added descriptive alt 'Theme Detector Interface Overview' to overview image.
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1d57c8e51f664db4bdec6_Eye%20-%20Blue%20Glass%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e7f6b277f0c31643f62a55_7fd3b13564873b52dbec6363e8bf55b1_Handsfree.webp
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1d57cda700fa77fbe9c79_Time%20-%20Blue%20Glass%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e7f6b225cd47adea51220a_16b120df83a07d42ec7b3ff015b76df3_Save%20time%20%26%20money.webp
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1d57c8875306e5a9982d2_Tag%20-%20Blue%20Glass%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e7f6b292c55da3fac354f5_fb32aa16027a9d38f084041be87c1f8a_One%20sale%2C%20bill%20paid.webp
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1d57c1b4adc92db4d8737_Pie%20Chart%20-%20Blue%20Glass%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e7f6b2e92b23bfd8ace691_07b5542ceafebe4ac452cf953c809465_Extensive%20insights.webp
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1d57c1f09a0185e4eb27f_Notification%20-%20Blue%20Glass%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e7f6b234b5b1cc4941887f_c197b83d10c16073e64740d65e2caa6b_Stay%20up%20to%20date.webp
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1d57c7556a03a91f6584d_Compass%20-%20Blue%20Glass%20-%20Medium.svg
+- Added alt='' (decorative) to ./Untitled design (83).png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69cf8acf7b6b15b3e187f017_Arrow%20Left.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69cf8acf7b6b15b3e187f017_Arrow%20Left.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69cf8acf110d18af6299f255_Arrow%20Right.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69cf8acf110d18af6299f255_Arrow%20Right.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a98965fa4e4a71b5_Download%20-%20White%20-%20Small.svg
+- Added descriptive alt 'Nexmart Company Logo' to ./ChatGPT Image May 31, 2026, 01_17_29 PM.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e049e7f06e589413747b_Sales%20Tracker%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e049b02c89db7a46a810_Portfolio%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e04a1560ba8c7772e465_Shop%20library%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e04905f691180e6f7041_Ad%20Library%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e04916b44cc26b43d5f2_Product%20Library%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e049eb8586abe837fbf7_Competitor%20Research%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e0491ad7aa6fc3e17393_Advertiser%20Library%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e04942a31660d0ae2461_Magic%20AI%20Search%20-%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e8d021229102cc44b29c78_Creator%20Library%2C%20Large.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e0634867cb48db626ee4_Sales%20Tracker%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05b7ee91b5d11f00e40_Portfolio%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05b9ea94922fedc73fa_Shop%20library%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05b96691c3f03242dad_Ad%20Library%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05cafe1e1f15474006b_Product%20Library%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05ba6eb16dc7aadd961_Competitor%20Research%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05b7a3dcbb4cc1d1deb_Advertiser%20Library%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1e05b7bb8f1d52d6f3745_Magic%20AI%20Search%20-%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69e8d02c22e35e3011c826a1_Creator%20Library%2C%20Medium.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce5342315ec125946875_Chevron%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to ./nexmart_dashboard.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69cb35feed2f2c513f5e8866_612e0dbe83bb7236d572d99dc221dfad_footer-graphic.webp
+- Added descriptive alt 'Nexmart Company Logo' to ./ChatGPT Image May 31, 2026, 01_17_29 PM.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1cda53c28d37d54a24b83_%20Chevron%20Right%20-%20Black%20-%20Small.svg
+- Added descriptive alt 'Nexmart Company Logo' to ./ChatGPT Image May 31, 2026, 01_17_29 PM.png
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d1ce53a28ce00ec75c1f97_Arrow%20Right%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d3226c57af2ce480f5d6a0_Instagram%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d3226c57af2ce480f5d6a0_Instagram%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d3226cf326e606e1a3ab24_TikTok%20-%20White%20-%20Small.svg
+- Added alt='' (decorative) to https://cdn.prod.website-files.com/69c4a4d640fdca68c1cc9685/69d3226cf326e606e1a3ab24_TikTok%20-%20White%20-%20Small.svg

@@ -1,0 +1,54 @@
+{
+    "files_modified": [
+        "advertiser-library.html",
+        "advertiser-tracker.html",
+        "agentic-commerce.html",
+        "cancellation-policy.html",
+        "checkout-policy.html",
+        "chrome-extension.html",
+        "competitor-research.html",
+        "creator-library.html",
+        "financial-inclusion.html",
+        "healthcare-access.html",
+        "index.html",
+        "magic-ai-search.html",
+        "portfolio.html",
+        "pre-built-stores.html",
+        "privacy-policy.html",
+        "product-template.html",
+        "refund-policy.html",
+        "return-policy.html",
+        "terms-and-conditions.html",
+        "theme-detector.html"
+    ],
+    "links_changed": [
+        "Advertiser Library: https://app.nexmartshop.ai/solutions/advertiser-library -> advertiser-library.html",
+        "Advertiser Tracker: https://app.nexmartshop.ai/solutions/advertiser-tracker -> advertiser-tracker.html",
+        "Agentic Commerce: https://app.nexmartshop.ai/solutions/product-library -> agentic-commerce.html",
+        "Chrome Extension: https://app.nexmartshop.ai/solutions/chrome-extension -> chrome-extension.html",
+        "Competitor Research: https://app.nexmartshop.ai/solutions/competitor-research -> competitor-research.html",
+        "Creator Library: https://app.nexmartshop.ai/solutions/creator-library -> creator-library.html",
+        "Financial Inclusion: https://app.nexmartshop.ai/solutions/sales-tracker -> financial-inclusion.html",
+        "Healthcare Access: https://app.nexmartshop.ai/solutions/ad-library -> healthcare-access.html",
+        "Magic AI Search: https://app.nexmartshop.ai/solutions/magic-ai-search -> magic-ai-search.html",
+        "Portfolio: https://app.nexmartshop.ai/solutions/portfolio -> portfolio.html",
+        "Pre-built Stores: https://start.nexmartshop.ai/ -> pre-built-stores.html",
+        "Theme Detector: https://app.nexmartshop.ai/free-tools/theme-detector -> theme-detector.html"
+    ],
+    "unchanged": [
+        "Logistics Node (Target logistics-node.html does not exist)"
+    ],
+    "broken_eliminated": [
+        "https://app.nexmartshop.ai/free-tools/theme-detector",
+        "https://app.nexmartshop.ai/solutions/ad-library",
+        "https://app.nexmartshop.ai/solutions/advertiser-library",
+        "https://app.nexmartshop.ai/solutions/advertiser-tracker",
+        "https://app.nexmartshop.ai/solutions/chrome-extension",
+        "https://app.nexmartshop.ai/solutions/competitor-research",
+        "https://app.nexmartshop.ai/solutions/creator-library",
+        "https://app.nexmartshop.ai/solutions/magic-ai-search",
+        "https://app.nexmartshop.ai/solutions/portfolio",
+        "https://app.nexmartshop.ai/solutions/product-library",
+        "https://app.nexmartshop.ai/solutions/sales-tracker"
+    ]
+}

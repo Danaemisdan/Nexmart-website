@@ -1,0 +1,258 @@
+--- Folder Structure ---
+├── .git
+│   ├── HEAD
+│   ├── config
+│   ├── description
+│   ├── hooks
+│   │   ├── applypatch-msg.sample
+│   │   ├── commit-msg.sample
+│   │   ├── fsmonitor-watchman.sample
+│   │   ├── post-update.sample
+│   │   ├── pre-applypatch.sample
+│   │   ├── pre-commit.sample
+│   │   ├── pre-merge-commit.sample
+│   │   ├── pre-push.sample
+│   │   ├── pre-rebase.sample
+│   │   ├── pre-receive.sample
+│   │   ├── prepare-commit-msg.sample
+│   │   ├── push-to-checkout.sample
+│   │   ├── sendemail-validate.sample
+│   │   └── update.sample
+│   ├── index
+│   ├── info
+│   │   └── exclude
+│   ├── logs
+│   │   ├── HEAD
+│   │   └── refs
+│   │       ├── heads
+│   │       │   └── main
+│   │       └── remotes
+│   │           └── origin
+│   │               └── HEAD
+│   ├── objects
+│   │   ├── info
+│   │   └── pack
+│   │       ├── pack-8d6f939fbbad0dd5e1ac48d226f50dae0b559c13.idx
+│   │       ├── pack-8d6f939fbbad0dd5e1ac48d226f50dae0b559c13.pack
+│   │       └── pack-8d6f939fbbad0dd5e1ac48d226f50dae0b559c13.rev
+│   ├── packed-refs
+│   └── refs
+│       ├── heads
+│       │   └── main
+│       ├── remotes
+│       │   └── origin
+│       │       └── HEAD
+│       └── tags
+├── .gitignore
+├── .vite
+│   └── deps
+│       ├── _metadata.json
+│       └── package.json
+├── ChatGPT Image May 31, 2026, 01_17_29 PM.png
+├── ChatGPT Image May 31, 2026, 02_24_03 PM.png
+├── ChatGPT Image May 31, 2026, 04_05_19 AM.png
+├── Green White Professional Minimal Company Business Card
+│   ├── Card1_Front.png
+│   ├── Card1_back.png
+│   ├── Card2_Front.png
+│   └── Card2_back.png
+├── README.md
+├── Untitled design (83).png
+├── WhatsApp Image 2026-05-31 at 15.47.01 (1).jpeg
+├── app_redirects_report.md
+├── arch_scan.py
+├── audit.py
+├── audit_app_links.py
+├── audit_report.md
+├── audit_resources.py
+├── audit_results.json
+├── audit_tools.py
+├── cancellation-policy.html
+├── cdn.jsdelivr.net
+│   └── npm
+│       ├── swiper@8
+│       │   └── swiper-bundle.min.js
+│       └── swiper@8.4.7
+│           └── swiper-bundle.min.css
+├── cdn.odyn.dev
+│   ├── p
+│   │   └── vqj6
+│   │       ├── bundle.css
+│   │       └── bundle.js
+│   └── robots.txt
+├── cdn.prod.website-files.com
+│   └── 69c4a4d640fdca68c1cc9685
+│       ├── 69c4ab2408f4adbb1ab41452_Plus Jakarta Sans - Medium.woff2
+│       ├── 69c4ab2416ced9b7f79eeabb_Inter - Medium.woff2
+│       ├── 69c4ab2433188ed22da332d3_Inter - Regular.woff2
+│       ├── 69c4ab2433188ed22da332da_Plus Jakarta Sans - SemiBold.woff2
+│       ├── 69c4ab2473784081877d984f_Inter - SemiBold.woff2
+│       ├── 69c4ab2473784081877d9855_Plus Jakarta Sans - Regular.woff2
+│       ├── 69cb344e12c41954adba10a8_ec29ef29b8b063150dc88466dbc7820f_Chrome Icon.svg
+│       ├── 69cb35feed2f2c513f5e8866_612e0dbe83bb7236d572d99dc221dfad_footer-graphic-p-1080.webp
+│       ├── 69cb35feed2f2c513f5e8866_612e0dbe83bb7236d572d99dc221dfad_footer-graphic-p-1600.webp
+│       ├── 69cb35feed2f2c513f5e8866_612e0dbe83bb7236d572d99dc221dfad_footer-graphic-p-2000.webp
+│       ├── 69cb35feed2f2c513f5e8866_612e0dbe83bb7236d572d99dc221dfad_footer-graphic-p-2600.webp
+│       ├── 69cb35feed2f2c513f5e8866_612e0dbe83bb7236d572d99dc221dfad_footer-graphic-p-3200.webp
+│       ├── 69cb35feed2f2c513f5e8866_612e0dbe83bb7236d572d99dc221dfad_footer-graphic-p-500.webp
+│       ├── 69cb35feed2f2c513f5e8866_612e0dbe83bb7236d572d99dc221dfad_footer-graphic-p-800.webp
+│       ├── 69cb35feed2f2c513f5e8866_612e0dbe83bb7236d572d99dc221dfad_footer-graphic.webp
+│       ├── 69cf2dde21e462547d3e4fcd_c5d955137ad8b8cc58dbb2a727d76549_Chrome Icon-p-500.webp
+│       ├── 69cf2dde21e462547d3e4fcd_c5d955137ad8b8cc58dbb2a727d76549_Chrome Icon.webp
+│       ├── 69cf8acf110d18af6299f255_Arrow Right.svg
+│       ├── 69cf8acf7b6b15b3e187f017_Arrow Left.svg
+│       ├── 69d0653a16b44cc26b3139c9_15eeea174838b782c4c093b0da514a8f_Millions of Products.webp
+│       ├── 69d0677a4011c624cf6f78be_83ee9e2ae34b710cf47a31b0d2613519_Track Store Revenue.webp
+│       ├── 69d1cda53c28d37d54a24b83_ Chevron Right - Black - Small.svg
+│       ├── 69d1cda673a3a77ff83f9235_ Plus - Black - Small.svg
+│       ├── 69d1ce5342315ec125946875_Chevron Right - White - Small.svg
+│       ├── 69d1ce53a28ce00ec75c1f97_Arrow Right - White - Small.svg
+│       ├── 69d1ce53a98965fa4e4a71b5_Download - White - Small.svg
+│       ├── 69d1ce53ae2d8ec2f4cfdbe7_Arrow Up - White - Small.svg
+│       ├── 69d1cf97be4d2c2250a2c4fa_Chevron Right - Blue - Small.svg
+│       ├── 69d1d57c1b4adc92db4d8737_Pie Chart - Blue Glass - Medium.svg
+│       ├── 69d1d57c1f09a0185e4eb27f_Notification - Blue Glass - Medium.svg
+│       ├── 69d1d57c7556a03a91f6584d_Compass - Blue Glass - Medium.svg
+│       ├── 69d1d57c8875306e5a9982d2_Tag - Blue Glass - Medium.svg
+│       ├── 69d1d57c8e51f664db4bdec6_Eye - Blue Glass - Medium.svg
+│       ├── 69d1d57cda700fa77fbe9c79_Time - Blue Glass - Medium.svg
+│       ├── 69d1e04905f691180e6f7041_Ad Library - Large.svg
+│       ├── 69d1e04916b44cc26b43d5f2_Product Library - Large.svg
+│       ├── 69d1e0491ad7aa6fc3e17393_Advertiser Library - Large.svg
+│       ├── 69d1e04942a31660d0ae2461_Magic AI Search - Large.svg
+│       ├── 69d1e049b02c89db7a46a810_Portfolio - Large.svg
+│       ├── 69d1e049e7f06e589413747b_Sales Tracker - Large.svg
+│       ├── 69d1e049eb8586abe837fbf7_Competitor Research - Large.svg
+│       ├── 69d1e049edeb09d8a84e3f42_Advertiser Tracker - Large.svg
+│       ├── 69d1e04a1560ba8c7772e465_Shop library - Large.svg
+│       ├── 69d1e05b7a3dcbb4cc1d1deb_Advertiser Library - Medium.svg
+│       ├── 69d1e05b7bb8f1d52d6f3745_Magic AI Search - Medium.svg
+│       ├── 69d1e05b7ee91b5d11f00e40_Portfolio - Medium.svg
+│       ├── 69d1e05b96691c3f03242dad_Ad Library - Medium.svg
+│       ├── 69d1e05b9ea94922fedc73fa_Shop library - Medium.svg
+│       ├── 69d1e05ba6eb16dc7aadd961_Competitor Research - Medium.svg
+│       ├── 69d1e05bccf4177e0c2ab213_Advertiser Tracker - Medium.svg
+│       ├── 69d1e05cafe1e1f15474006b_Product Library - Medium.svg
+│       ├── 69d1e0634867cb48db626ee4_Sales Tracker - Medium.svg
+│       ├── 69d1e0681a6346ad2e312082_Contact - Small.svg
+│       ├── 69d1e06831e27963bd87b2c7_Product Library - Small.svg
+│       ├── 69d1e068329565a67b9809a6_About - Small.svg
+│       ├── 69d1e0683c28d37d54a2dd48_Advertiser Tracker - Small.svg
+│       ├── 69d1e0684b6597c83d18b477_3438d84da6d2d02121c23f877eb0eb33_Chrome - Small.svg
+│       ├── 69d1e06854cc77bd7fd79272_Ad Library - Small.svg
+│       ├── 69d1e068567f647cc67bd200_Pre-built store - Small.svg
+│       ├── 69d1e06864ebc9af48e05fc4_University - Small.svg
+│       ├── 69d1e0688a41540f3b10904f_Shop library - Small.svg
+│       ├── 69d1e06895189808eaeae7fe_Blog - Small.svg
+│       ├── 69d1e068986b6c148516748e_Magic AI Search - Small.svg
+│       ├── 69d1e0689a2ae2a7c86cd982_Advertiser Library - Small.svg
+│       ├── 69d1e068af1fc268dc9c06fc_Competitor Research - Small.svg
+│       ├── 69d1e068afbcdfc701c61cfe_Portfolio - Small.svg
+│       ├── 69d1e068b114be9ed905af36_Sales Tracker - Small.svg
+│       ├── 69d1e068c9e17ae391cc043e_FAQs - Small.svg
+│       ├── 69d1e068e6964f94469a1347_Discord - Small.svg
+│       ├── 69d1e0742699aad3185abac4_Magic AI Search - XLarge.svg
+│       ├── 69d1e0746be64ade385fe346_Advertiser Library - XLarge.svg
+│       ├── 69d1e074868147e3a7f7156c_Sales Tracker - XLarge.svg
+│       ├── 69d1e074b802cb06a81d85d3_Ad Library - XLarge.svg
+│       ├── 69d1e074bfb54ba3f6571244_Competitor Research - XLarge.svg
+│       ├── 69d1e074bfb54ba3f6571247_Advertiser Tracker - XLarge.svg
+│       ├── 69d1e074c5dccb4012165023_Portfolio - XLarge.svg
+│       ├── 69d1e074d01e3ec0bc590952_Product Library - XLarge.svg
+│       ├── 69d1e074de2b2ca67e878a78_Shop library - XLarge.svg
+│       ├── 69d3226c57af2ce480f5d6a0_Instagram - White - Small.svg
+│       ├── 69d3226cf326e606e1a3ab24_TikTok - White - Small.svg
+│       ├── 69df3321f4d7107f44ac4700_f81131a489d789a04727e46d11fc1235_Hero Wave-p-1080.webp
+│       ├── 69df3321f4d7107f44ac4700_f81131a489d789a04727e46d11fc1235_Hero Wave-p-1600.webp
+│       ├── 69df3321f4d7107f44ac4700_f81131a489d789a04727e46d11fc1235_Hero Wave-p-500.webp
+│       ├── 69df3321f4d7107f44ac4700_f81131a489d789a04727e46d11fc1235_Hero Wave-p-800.webp
+│       ├── 69df3321f4d7107f44ac4700_f81131a489d789a04727e46d11fc1235_Hero Wave.webp
+│       ├── 69df3797e12a10647332a82e_AI Search BG-p-1080.webp
+│       ├── 69df3797e12a10647332a82e_AI Search BG-p-500.webp
+│       ├── 69df3797e12a10647332a82e_AI Search BG-p-800.webp
+│       ├── 69df3797e12a10647332a82e_AI Search BG.webp
+│       ├── 69e03a10f096fe744c958464_Video Thumbnail.svg
+│       ├── 69e5ca213b0fa2f130d21d64_ticket-card-background.svg
+│       ├── 69e632db4e3210c14424ace2_course-locked-image.webp
+│       ├── 69e632db4e3210c14424acea_episode-sign-up-bg.webp
+│       ├── 69e6d9700e4b839bc145d651_Product Library  Home Tab.webp
+│       ├── 69e6d9701da91b6c6fb50a07_Advertiser Library - Home Tab.webp
+│       ├── 69e6d970217948d9c0c32448_Portfolio  Home Tab.webp
+│       ├── 69e6d9704ab3806d4af4f961_Magic AI Search  Home Tab.webp
+│       ├── 69e6d97057cd2b3b7367bc42_Ad Library - Home Tab.webp
+│       ├── 69e6d9706155dd99ef35b671_Competitor Research - Home Tab.webp
+│       ├── 69e6d97091fb0e8d912457e9_Shop Library - Home Tab.webp
+│       ├── 69e6d970adf02fc359eea646_Advertiser Tracker - Home Tab.webp
+│       ├── 69e6d970bcb42cd913221539_Sales Tracker - Home Tab.webp
+│       ├── 69e7260c0d00bdb7165454c2_dropship-favicon.png
+│       ├── 69e7f6b225cd47adea51220a_16b120df83a07d42ec7b3ff015b76df3_Save time & money.webp
+│       ├── 69e7f6b234b5b1cc4941887f_c197b83d10c16073e64740d65e2caa6b_Stay up to date.webp
+│       ├── 69e7f6b277f0c31643f62a55_7fd3b13564873b52dbec6363e8bf55b1_Handsfree.webp
+│       ├── 69e7f6b27ee26e9e0c949564_bb3cd60b43249d5e8eb7a77e55c8cbd5_On the go.webp
+│       ├── 69e7f6b292c55da3fac354f5_fb32aa16027a9d38f084041be87c1f8a_One sale, bill paid.webp
+│       ├── 69e7f6b2e92b23bfd8ace691_07b5542ceafebe4ac452cf953c809465_Extensive insights.webp
+│       ├── 69e8cd28c97f773a1e8a01bb_Creator Library - Home Tab.webp
+│       ├── 69e8d021229102cc44b29c78_Creator Library, Large.svg
+│       ├── 69e8d02c22e35e3011c826a1_Creator Library, Medium.svg
+│       ├── 69e8d0334a9c5be49bb70e33_Creator Library, Small.svg
+│       ├── 69e8d03d9b256715df8b7efc_Creator Library, XLarge.svg
+│       ├── 69e99109adf55896a9c89bf3_theme-detector-small.svg
+│       ├── 69ebdae404c1e8392bddeac2_baby.webp
+│       ├── 69ebdae41f8d1b85c666fae8_candy-gun.webp
+│       ├── 69ebdae421045337b745a9d6_drone-brighter.webp
+│       ├── 69ebdae43326f9ffeb38bf0d_bubblegun.webp
+│       ├── 69ebdae44034f31b5fdba26e_baby-food.webp
+│       ├── 69ebdae446563106479b3a83_galaxy-lamp.webp
+│       ├── 69ebdae452d723e06e9ddae9_glass.webp
+│       ├── 69ebdae45becc93f4fecfada_bottle.webp
+│       ├── 69ebdae4c63acc8f2fdb73dd_atm.webp
+│       ├── 69ebdae4d7311ed11bbc772d_drone.webp
+│       ├── 69ebdae4d7a60eb62c62b8fa_cat.webp
+│       ├── 69ebdae5666af27a806f3ca3_hair-iron.webp
+│       ├── 69ebdae5a395428d37afc579_cubelight.webp
+│       ├── 69ebdae608de0ac045f84569_mosquito-slap.webp
+│       ├── 69ebdae6134177a853932d50_sealing-machine.webp
+│       ├── 69ebdae63b9b828a8ccea441_popcorn-maker.webp
+│       ├── 69ebdae657f72178bd344149_projector.webp
+│       ├── 69ebdae67912b68bcbc1b8b7_moon-lamp-1.webp
+│       ├── 69ebdae6903fd35e0d2199a2_moon-lamp.webp
+│       ├── 69ebdae6a8fc38f2704cb864_ice.webp
+│       ├── 69ebdae6ab8523af0a004109_mosquito.webp
+│       ├── 69ebdae6c9cb03f5864d2846_pore-vacuum.webp
+│       ├── 69ebdae6eb80571724de01dc_shots.webp
+│       ├── 69ebdae6fdab7469ddd8eac5_ice-breaker.webp
+│       ├── 69ebdae8aeb4233f5b8a591c_wine-dispenser-1.webp
+│       ├── 69ebdae8dcffe56b84ad2b7f_wine-dispenser.webp
+│       ├── 69ebdae8f5701459ca732edb_switch.webp
+│       ├── css
+│       │   ├── dropship-3-0.shared.0bef7ac99.min.css.orig
+│       │   └── nexmart-3-0.shared.0bef7ac99.min.css
+│       └── js
+│           └── dropship-3-0.a0aa6ca1.b7683852b8a60d8e.js
+├── checkout-policy.html
+├── dock_html.txt
+├── extract.py
+├── extract_map.py
+├── final_revert.py
+├── generate_report.py
+├── img_srcs.txt
+├── index.html
+├── index_original.html
+├── nexmart_dashboard.png
+├── p_texts.txt
+├── privacy-policy.html
+├── refund-policy.html
+├── return-policy.html
+├── terms-and-conditions.html
+├── update_footers.py
+└── update_logos.py
+
+--- HTML Files ---
+cancellation-policy.html
+checkout-policy.html
+index.html
+index_original.html
+privacy-policy.html
+refund-policy.html
+return-policy.html
+terms-and-conditions.html

@@ -1,0 +1,644 @@
+[
+  {
+    "element": "A (mega-nav__bar-logo w-inline-block w--current)",
+    "text": "[Image: Nexmart logo]",
+    "location": "Navigation Bar",
+    "destination": "https://app.nexmartshop.ai/"
+  },
+  {
+    "element": "BUTTON (mega-nav__bar-link is--dropdown)",
+    "text": "Tools",
+    "location": "Navigation Bar",
+    "destination": "N/A"
+  },
+  {
+    "element": "BUTTON (mega-nav__bar-link is--dropdown)",
+    "text": "Resources",
+    "location": "Navigation Bar",
+    "destination": "N/A"
+  },
+  {
+    "element": "A (mega-nav__bar-link w-inline-block)",
+    "text": "Pricing",
+    "location": "Navigation Bar",
+    "destination": "https://app.nexmartshop.ai/pricing"
+  },
+  {
+    "element": "A (button-wrap w-variant-fdd894b6-a4c6-5062-b405-6cbc95c85455 w-inline-block)",
+    "text": "Sign in",
+    "location": "Navigation Bar",
+    "destination": "https://app.nexmartshop.ai/login"
+  },
+  {
+    "element": "A (button-wrap w-inline-block)",
+    "text": "Start Shopping With AI",
+    "location": "Navigation Bar",
+    "destination": "https://app.nexmartshop.ai/sign-up"
+  },
+  {
+    "element": "BUTTON (mega-nav__burger)",
+    "text": "No Text",
+    "location": "Navigation Bar",
+    "destination": "N/A"
+  },
+  {
+    "element": "BUTTON (mega-nav__bar-link is--back)",
+    "text": "Back",
+    "location": "Navigation Bar",
+    "destination": "N/A"
+  },
+  {
+    "element": "A (mega-nav__panel-link w-inline-block)",
+    "text": "[Image] Healthcare Access @keyframes fire-flicker {\n  0%,100% { transform: scaleY(1) scaleX(1) skewX(0deg); }\n  20%      { transform: scaleY(0.92) scaleX(1.04) skewX(-2deg); }\n  40%      { transform: scaleY(1.07) scaleX(0.97) skewX(1.5deg); }\n  60%      { transform: scaleY(0.95) scaleX(1.03) skewX(2deg); }\n  80%      { transform: scaleY(1.04) scaleX(0.98) skewX(-1deg); }\n}\n\n.fire-icon path {\n  transform-box: fill-box;\n  transform-origin: bottom center;\n  animation:\n    fire-flicker 2s ease-in-out infinite;\n}    HOT Find agentic commerce ads by ad spend",
+    "location": "Navigation Bar",
+    "destination": "https://app.nexmartshop.ai/solutions/ad-library"
+  },
+  {
+    "element": "A (mega-nav__panel-link w-inline-block)",
+    "text": "[Image] Advertiser Tracker @keyframes sp-fade {\n  0%,100% { opacity: 1; }\n  50%      { opacity: 0.08; }\n}\n.sparkle-icon path {\n  transform-box: fill-box;\n  transform-origin: center;\n}\n.sparkle-icon path:nth-child(1) { animation: sp-fade 2s ease-in-out infinite 0s; }\n.sparkle-icon path:nth-child(2) { animation: sp-fade 2s ease-in-out infinite 0.45s; }\n.sparkle-icon path:nth-child(3) { animation: sp-fade 2s ease-in-out infinite 0.9s; }      TRENDING Track advertisers and spot agentic ads",
+    "location": "Navigation Bar",
+    "destination": "https://app.nexmartshop.ai/solutions/advertiser-tracker"
+  },
+  {
+    "element": "A (mega-nav__panel-link w-inline-block)",
+    "text": "[Image] Creator Library @keyframes sp-fade {\n  0%,100% { opacity: 1; }\n  50%      { opacity: 0.08; }\n}\n.sparkle-icon path {\n  transform-box: fill-box;\n  transform-origin: center;\n}\n.sparkle-icon path:nth-child(1) { animation: sp-fade 2s ease-in-out infinite 0s; }\n.sparkle-icon path:nth-child(2) { animation: sp-fade 2s ease-in-out infinite 0.45s; }\n.sparkle-icon path:nth-child(3) { animation: sp-fade 2s ease-in-out infinite 0.9s; }      NEW Discover TikTok creators with sales",
+    "location": "Navigation Bar",
+    "destination": "https://app.nexmartshop.ai/solutions/creator-library"
+  },
+  {
+    "element": "A (mega-nav__panel-link w-inline-block)",
+    "text": "[Image] Agentic Commerce Find products and view their revenue",
+    "location": "Navigation Bar",
+    "destination": "https://app.nexmartshop.ai/solutions/product-library"
+  },
+  {
+    "element": "A (mega-nav__panel-link w-inline-block)",
+    "text": "[Image] Advertiser Library See advertisers with biggest ad spend",
+    "location": "Navigation Bar",
+    "destination": "https://app.nexmartshop.ai/solutions/advertiser-library"
+  },
+  {
+    "element": "A (mega-nav__panel-link w-inline-block)",
+    "text": "[Image] Financial Inclusion Track sales and revenue of shops",
+    "location": "Navigation Bar",
+    "destination": "https://app.nexmartshop.ai/solutions/sales-tracker"
+  },
+  {
+    "element": "A (mega-nav__panel-link w-inline-block)",
+    "text": "[Image] Logistics Node Explore TikTok Shops with sales data",
+    "location": "Navigation Bar",
+    "destination": "https://app.nexmartshop.ai/solutions/shop-library"
+  },
+  {
+    "element": "A (mega-nav__panel-link w-inline-block)",
+    "text": "[Image] Portfolio Receive agentic commerce every week",
+    "location": "Navigation Bar",
+    "destination": "https://app.nexmartshop.ai/solutions/portfolio"
+  },
+  {
+    "element": "A (mega-nav__panel-link w-inline-block)",
+    "text": "[Image] Competitor Research Find your competitors with one click",
+    "location": "Navigation Bar",
+    "destination": "https://app.nexmartshop.ai/solutions/competitor-research"
+  },
+  {
+    "element": "A (mega-nav__panel-link w-inline-block)",
+    "text": "[Image] Magic AI Search Use AI to find ads and products",
+    "location": "Navigation Bar",
+    "destination": "https://app.nexmartshop.ai/solutions/magic-ai-search"
+  },
+  {
+    "element": "A (mega-nav__panel-video-link w-inline-block)",
+    "text": "[Image] Watch a short video that explains Nexmart Watch video",
+    "location": "Navigation Bar",
+    "destination": "https://app.nexmartshop.ai/videos/welcome-to-nexmart"
+  },
+  {
+    "element": "A (mega-nav__panel-link w-inline-block)",
+    "text": "[Image] Chrome Extension v1.32 Perform real-time product research",
+    "location": "Navigation Bar",
+    "destination": "https://app.nexmartshop.ai/solutions/chrome-extension"
+  },
+  {
+    "element": "A (mega-nav__panel-link w-inline-block)",
+    "text": "[Image] Pre-built Stores Generate a free custom AI Shopify store",
+    "location": "Navigation Bar",
+    "destination": "https://start.nexmartshop.ai/"
+  },
+  {
+    "element": "A (mega-nav__panel-link w-inline-block)",
+    "text": "[Image] Theme Detector Discover any store\u2019s Shopify theme",
+    "location": "Navigation Bar",
+    "destination": "https://app.nexmartshop.ai/free-tools/theme-detector"
+  },
+  {
+    "element": "A (mega-nav__panel-link w-inline-block)",
+    "text": "[Image] Blog A blog about online business",
+    "location": "Navigation Bar",
+    "destination": "https://app.nexmartshop.ai/blog"
+  },
+  {
+    "element": "A (mega-nav__panel-link w-inline-block)",
+    "text": "[Image] Nexmart University Learn nexmartping from experts",
+    "location": "Navigation Bar",
+    "destination": "https://app.nexmartshop.ai/university"
+  },
+  {
+    "element": "A (mega-nav__panel-link w-inline-block)",
+    "text": "[Image] FAQs Frequently asked questions",
+    "location": "Navigation Bar",
+    "destination": "https://app.nexmartshop.ai/faq"
+  },
+  {
+    "element": "A (mega-nav__panel-link w-inline-block)",
+    "text": "[Image] About Us Get to know us at Nexmart",
+    "location": "Navigation Bar",
+    "destination": "https://app.nexmartshop.ai/about"
+  },
+  {
+    "element": "A (mega-nav__panel-link w-inline-block)",
+    "text": "[Image] Discord Community Join & chat with entrepreneurs",
+    "location": "Navigation Bar",
+    "destination": "https://discord.gg/qJXWveyamx"
+  },
+  {
+    "element": "A (mega-nav__panel-link w-inline-block)",
+    "text": "[Image] Contact Get in touch with us",
+    "location": "Navigation Bar",
+    "destination": "https://app.nexmartshop.ai/contact"
+  },
+  {
+    "element": "A (mega-nav__panel-link w-inline-block)",
+    "text": "Connect Shopify to Nexmart 1min 11sec",
+    "location": "Navigation Bar",
+    "destination": "https://app.nexmartshop.ai/videos/connect-shopify-to-nexmart"
+  },
+  {
+    "element": "A (mega-nav__panel-link w-inline-block)",
+    "text": "Portfolio (Tutorial) 2min 12sec",
+    "location": "Navigation Bar",
+    "destination": "https://app.nexmartshop.ai/videos/portfolio"
+  },
+  {
+    "element": "A (mega-nav__panel-link w-inline-block)",
+    "text": "Agentic Commerce (Tutorial) 2min 58sec",
+    "location": "Navigation Bar",
+    "destination": "https://app.nexmartshop.ai/videos/product-library"
+  },
+  {
+    "element": "A (mega-nav__panel-link w-inline-block)",
+    "text": "Competitor Research (Tutorial) 2min 56sec",
+    "location": "Navigation Bar",
+    "destination": "https://app.nexmartshop.ai/videos/competitor-research"
+  },
+  {
+    "element": "A (mega-nav__panel-link w-inline-block)",
+    "text": "Build Store (Tutorial) 1min 11sec",
+    "location": "Navigation Bar",
+    "destination": "https://app.nexmartshop.ai/videos/build-store"
+  },
+  {
+    "element": "A (mega-nav__panel-link w-inline-block)",
+    "text": "Healthcare Access (Tutorial) 3min 11sec",
+    "location": "Navigation Bar",
+    "destination": "https://app.nexmartshop.ai/videos/ad-library"
+  },
+  {
+    "element": "A (button-wrap w-inline-block)",
+    "text": "Start Shopping With AI",
+    "location": "Main Content",
+    "destination": "https://app.nexmartshop.ai/sign-up"
+  },
+  {
+    "element": "A (button-wrap w-variant-fdd894b6-a4c6-5062-b405-6cbc95c85455 w-inline-block)",
+    "text": "[Image] Download App",
+    "location": "Main Content",
+    "destination": "https://chromewebstore.google.com/detail/nexmart-product-research/pgccoaecgcgnhffkjjcaonjoockggmng?pli=1"
+  },
+  {
+    "element": "BUTTON (home-tab-item__link)",
+    "text": "[Image]",
+    "location": "Main Content",
+    "destination": "N/A"
+  },
+  {
+    "element": "BUTTON (home-tab-item__link)",
+    "text": "[Image]",
+    "location": "Main Content",
+    "destination": "N/A"
+  },
+  {
+    "element": "BUTTON (home-tab-item__link)",
+    "text": "[Image]",
+    "location": "Main Content",
+    "destination": "N/A"
+  },
+  {
+    "element": "BUTTON (home-tab-item__link)",
+    "text": "[Image]",
+    "location": "Main Content",
+    "destination": "N/A"
+  },
+  {
+    "element": "BUTTON (home-tab-item__link)",
+    "text": "[Image]",
+    "location": "Main Content",
+    "destination": "N/A"
+  },
+  {
+    "element": "BUTTON (home-tab-item__link)",
+    "text": "[Image]",
+    "location": "Main Content",
+    "destination": "N/A"
+  },
+  {
+    "element": "BUTTON (home-tab-item__link)",
+    "text": "[Image]",
+    "location": "Main Content",
+    "destination": "N/A"
+  },
+  {
+    "element": "BUTTON (home-tab-item__link w--current)",
+    "text": "[Image]",
+    "location": "Main Content",
+    "destination": "N/A"
+  },
+  {
+    "element": "BUTTON (home-tab-item__link)",
+    "text": "[Image]",
+    "location": "Main Content",
+    "destination": "N/A"
+  },
+  {
+    "element": "A (button-wrap w-inline-block)",
+    "text": "View product [Image]",
+    "location": "Main Content",
+    "destination": "https://app.nexmartshop.ai/solutions/sales-tracker"
+  },
+  {
+    "element": "A (button-wrap w-inline-block)",
+    "text": "View product [Image]",
+    "location": "Main Content",
+    "destination": "https://app.nexmartshop.ai/solutions/portfolio"
+  },
+  {
+    "element": "A (button-wrap w-inline-block)",
+    "text": "View product [Image]",
+    "location": "Main Content",
+    "destination": "https://app.nexmartshop.ai/solutions/shop-library"
+  },
+  {
+    "element": "A (button-wrap w-inline-block)",
+    "text": "View product [Image]",
+    "location": "Main Content",
+    "destination": "https://app.nexmartshop.ai/solutions/ad-library"
+  },
+  {
+    "element": "A (button-wrap w-inline-block)",
+    "text": "View product [Image]",
+    "location": "Main Content",
+    "destination": "https://app.nexmartshop.ai/solutions/product-library"
+  },
+  {
+    "element": "A (button-wrap w-inline-block)",
+    "text": "View product [Image]",
+    "location": "Main Content",
+    "destination": "https://app.nexmartshop.ai/solutions/competitor-research"
+  },
+  {
+    "element": "A (button-wrap w-inline-block)",
+    "text": "View product [Image]",
+    "location": "Main Content",
+    "destination": "https://app.nexmartshop.ai/solutions/advertiser-library"
+  },
+  {
+    "element": "A (button-wrap w-inline-block)",
+    "text": "View product [Image]",
+    "location": "Main Content",
+    "destination": "https://app.nexmartshop.ai/solutions/magic-ai-search"
+  },
+  {
+    "element": "A (button-wrap w-inline-block)",
+    "text": "View product [Image]",
+    "location": "Main Content",
+    "destination": "https://app.nexmartshop.ai/solutions/creator-library"
+  },
+  {
+    "element": "A (button-wrap w-inline-block)",
+    "text": "Learn More",
+    "location": "Main Content",
+    "destination": "https://app.nexmartshop.ai/solutions/magic-ai-search"
+  },
+  {
+    "element": "A (eyebrow-link w-variant-5cc903c3-7eeb-df69-35a2-7a9bdd32534c w-inline-block)",
+    "text": "Nexmart Network is live! Check what\u2019s new",
+    "location": "Main Content",
+    "destination": "https://app.nexmartshop.ai/"
+  },
+  {
+    "element": "BUTTON (button-icon w-variant-4931d0e6-ca0d-ecf9-ed75-d11693d53861)",
+    "text": "[Image] [Image]",
+    "location": "Main Content",
+    "destination": "N/A"
+  },
+  {
+    "element": "BUTTON (button-icon)",
+    "text": "[Image] [Image]",
+    "location": "Main Content",
+    "destination": "N/A"
+  },
+  {
+    "element": "A (button-wrap w-inline-block)",
+    "text": "Download App [Image]",
+    "location": "Main Content",
+    "destination": "https://chromewebstore.google.com/detail/nexmart-product-research/pgccoaecgcgnhffkjjcaonjoockggmng?pli=1"
+  },
+  {
+    "element": "A (eyebrow-link w-variant-5cc903c3-7eeb-df69-35a2-7a9bdd32534c w-inline-block)",
+    "text": "4.8/5 Rating 100k+ active users",
+    "location": "Main Content",
+    "destination": "https://www.trustpilot.com/review/nexmartshop.ai"
+  },
+  {
+    "element": "A (eyebrow-link w-variant-5cc903c3-7eeb-df69-35a2-7a9bdd32534c w-inline-block)",
+    "text": "4.8/5 Rating 100k+ active users",
+    "location": "Main Content",
+    "destination": "https://www.trustpilot.com/review/nexmartshop.ai"
+  },
+  {
+    "element": "A (button-wrap w-variant-07e764dd-ab36-f451-9e1b-ccea885e6499 w-inline-block)",
+    "text": "Read Article [Image]",
+    "location": "Main Content",
+    "destination": "https://app.nexmartshop.ai/blog/agentic commerce-for-dummies"
+  },
+  {
+    "element": "A (blog-card_link w-inline-block)",
+    "text": "No Text",
+    "location": "Main Content",
+    "destination": "https://app.nexmartshop.ai/blog/agentic commerce-for-dummies"
+  },
+  {
+    "element": "A (blog-card_link w-inline-block)",
+    "text": "No Text",
+    "location": "Main Content",
+    "destination": "https://app.nexmartshop.ai/blog/best-agentic commerce-software"
+  },
+  {
+    "element": "A (blog-card_link w-inline-block)",
+    "text": "No Text",
+    "location": "Main Content",
+    "destination": "https://app.nexmartshop.ai/blog/best-agentic commerce-suppliers-in-the-us"
+  },
+  {
+    "element": "A (blog-card_link w-inline-block)",
+    "text": "No Text",
+    "location": "Main Content",
+    "destination": "https://app.nexmartshop.ai/blog/best-agentic commerce-websites"
+  },
+  {
+    "element": "A (blog-card_link w-inline-block)",
+    "text": "No Text",
+    "location": "Main Content",
+    "destination": "https://app.nexmartshop.ai/blog/best-tiktok-agency-ad-account-providers"
+  },
+  {
+    "element": "A (blog-card_link w-inline-block)",
+    "text": "No Text",
+    "location": "Main Content",
+    "destination": "https://app.nexmartshop.ai/blog/best-high-ticket-products"
+  },
+  {
+    "element": "A (cta_item-link w-inline-block)",
+    "text": "[Image]",
+    "location": "Main Content",
+    "destination": "https://app.nexmartshop.ai/solutions/sales-tracker"
+  },
+  {
+    "element": "A (cta_item-link w-inline-block)",
+    "text": "[Image]",
+    "location": "Main Content",
+    "destination": "https://app.nexmartshop.ai/solutions/portfolio"
+  },
+  {
+    "element": "A (cta_item-link w-inline-block)",
+    "text": "[Image]",
+    "location": "Main Content",
+    "destination": "https://app.nexmartshop.ai/solutions/shop-library"
+  },
+  {
+    "element": "A (cta_item-link w-inline-block)",
+    "text": "[Image]",
+    "location": "Main Content",
+    "destination": "https://app.nexmartshop.ai/solutions/advertiser-tracker"
+  },
+  {
+    "element": "A (cta_item-link w-inline-block)",
+    "text": "[Image]",
+    "location": "Main Content",
+    "destination": "https://app.nexmartshop.ai/solutions/ad-library"
+  },
+  {
+    "element": "A (cta_item-link w-inline-block)",
+    "text": "[Image]",
+    "location": "Main Content",
+    "destination": "https://app.nexmartshop.ai/solutions/product-library"
+  },
+  {
+    "element": "A (cta_item-link w-inline-block)",
+    "text": "[Image]",
+    "location": "Main Content",
+    "destination": "https://app.nexmartshop.ai/solutions/competitor-research"
+  },
+  {
+    "element": "A (cta_item-link w-inline-block)",
+    "text": "[Image]",
+    "location": "Main Content",
+    "destination": "https://app.nexmartshop.ai/solutions/advertiser-library"
+  },
+  {
+    "element": "A (cta_item-link w-inline-block)",
+    "text": "[Image]",
+    "location": "Main Content",
+    "destination": "https://app.nexmartshop.ai/solutions/magic-ai-search"
+  },
+  {
+    "element": "A (cta_item-link w-inline-block)",
+    "text": "[Image]",
+    "location": "Main Content",
+    "destination": "https://app.nexmartshop.ai/solutions/creator-library"
+  },
+  {
+    "element": "A (button-wrap w-variant-fdd894b6-a4c6-5062-b405-6cbc95c85455 w-inline-block)",
+    "text": "Start Shopping With AI [Image]",
+    "location": "Footer",
+    "destination": "https://app.nexmartshop.ai/sign-up"
+  },
+  {
+    "element": "A (footer_logo-link w-inline-block w--current)",
+    "text": "[Image]",
+    "location": "Footer",
+    "destination": "https://app.nexmartshop.ai/"
+  },
+  {
+    "element": "A (footer_local-link w--current)",
+    "text": "en",
+    "location": "Footer",
+    "destination": "https://app.nexmartshop.ai/"
+  },
+  {
+    "element": "A (footer_local-link)",
+    "text": "de",
+    "location": "Footer",
+    "destination": "https://app.nexmartshop.ai/de"
+  },
+  {
+    "element": "A (footer_local-link)",
+    "text": "fr",
+    "location": "Footer",
+    "destination": "https://app.nexmartshop.ai/fr"
+  },
+  {
+    "element": "A (footer_local-link)",
+    "text": "nl",
+    "location": "Footer",
+    "destination": "https://app.nexmartshop.ai/nl"
+  },
+  {
+    "element": "A (footer_local-link)",
+    "text": "es",
+    "location": "Footer",
+    "destination": "https://app.nexmartshop.ai/es"
+  },
+  {
+    "element": "A (footer_link w-inline-block)",
+    "text": "[Image] Financial",
+    "location": "Footer",
+    "destination": "https://app.nexmartshop.ai/"
+  },
+  {
+    "element": "A (footer_link w-inline-block)",
+    "text": "[Image] Healthcare",
+    "location": "Footer",
+    "destination": "https://app.nexmartshop.ai/"
+  },
+  {
+    "element": "A (footer_link w-inline-block)",
+    "text": "[Image] Retail",
+    "location": "Footer",
+    "destination": "https://app.nexmartshop.ai/"
+  },
+  {
+    "element": "A (footer_link w-inline-block)",
+    "text": "[Image] Logistics",
+    "location": "Footer",
+    "destination": "https://app.nexmartshop.ai/"
+  },
+  {
+    "element": "A (footer_link w-inline-block)",
+    "text": "[Image] AI Agents",
+    "location": "Footer",
+    "destination": "https://app.nexmartshop.ai/"
+  },
+  {
+    "element": "A (footer_link w-inline-block)",
+    "text": "[Image] Pricing",
+    "location": "Footer",
+    "destination": "https://app.nexmartshop.ai/pricing"
+  },
+  {
+    "element": "A (footer_link w-inline-block)",
+    "text": "[Image] About",
+    "location": "Footer",
+    "destination": "https://app.nexmartshop.ai/about"
+  },
+  {
+    "element": "A (footer_link w-inline-block)",
+    "text": "[Image] Affiliate Program",
+    "location": "Footer",
+    "destination": "https://app.nexmartshop.ai/affiliate"
+  },
+  {
+    "element": "A (footer_link w-inline-block)",
+    "text": "[Image] Contact",
+    "location": "Footer",
+    "destination": "https://app.nexmartshop.ai/contact"
+  },
+  {
+    "element": "A (footer_link w-inline-block)",
+    "text": "[Image] Blog",
+    "location": "Footer",
+    "destination": "https://app.nexmartshop.ai/blog"
+  },
+  {
+    "element": "A (footer_link w-inline-block)",
+    "text": "[Image] Community",
+    "location": "Footer",
+    "destination": "https://discord.com/invite/nexmart"
+  },
+  {
+    "element": "A (footer_link w-inline-block)",
+    "text": "[Image] Nexmart University",
+    "location": "Footer",
+    "destination": "https://app.nexmartshop.ai/university"
+  },
+  {
+    "element": "A (footer_link w-inline-block)",
+    "text": "[Image] FAQs",
+    "location": "Footer",
+    "destination": "https://app.nexmartshop.ai/faq"
+  },
+  {
+    "element": "A (footer_link w-inline-block)",
+    "text": "[Image] Privacy Policy",
+    "location": "Footer",
+    "destination": "privacy-policy.html"
+  },
+  {
+    "element": "A (footer_link w-inline-block)",
+    "text": "[Image] Terms & Conditions",
+    "location": "Footer",
+    "destination": "terms-and-conditions.html"
+  },
+  {
+    "element": "A (footer_link w-inline-block)",
+    "text": "[Image] Refund Policy",
+    "location": "Footer",
+    "destination": "refund-policy.html"
+  },
+  {
+    "element": "A (footer_link w-inline-block)",
+    "text": "[Image] Return Policy",
+    "location": "Footer",
+    "destination": "return-policy.html"
+  },
+  {
+    "element": "A (footer_link w-inline-block)",
+    "text": "[Image] Cancellation Policy",
+    "location": "Footer",
+    "destination": "cancellation-policy.html"
+  },
+  {
+    "element": "A (footer_link w-inline-block)",
+    "text": "[Image] Checkout Policy",
+    "location": "Footer",
+    "destination": "checkout-policy.html"
+  },
+  {
+    "element": "A (button-icon up w-inline-block)",
+    "text": "[Image] [Image]",
+    "location": "Footer",
+    "destination": "https://instagram.com/nexmart"
+  },
+  {
+    "element": "A (button-icon up w-inline-block)",
+    "text": "[Image] [Image]",
+    "location": "Footer",
+    "destination": "https://tiktok.com/@nexmart"
+  },
+  {
+    "element": "A (button-wrap w-inline-block)",
+    "text": "Start Shopping With AI",
+    "location": "Footer",
+    "destination": "https://app.nexmartshop.ai/sign-up"
+  }
+]
