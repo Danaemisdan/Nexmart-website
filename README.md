@@ -4,7 +4,7 @@
 Nexmart is a modern, static marketing website for an Agentic Commerce platform. The site serves as the primary marketing vehicle to explain Nexmart's capabilities, showcase its suite of AI-driven tools, provide standard legal disclosures, and drive user acquisition.
 
 ## Tech Stack
-*   **HTML5:** Semantic, statically generated HTML.
+*   **HTML5:** Semantic, statically generated HTML
 *   **CSS3:** Monolithic utility-based CSS exported originally from Webflow.
 *   **JavaScript:** Webflow's native JS bundle for interactions (hamburger menus, basic animations).
 *   **Python (Build/Scripting):** Used strictly for mass-generation, SEO injection, and structural QA automation.
