@@ -12,6 +12,13 @@ def run():
     prod_style = soup.new_tag('style')
     prod_style.string = """
     /* Product UI Framework (Reusable for all product pages) */
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+    .agentic-page-wrapper {
+        font-family: 'Inter', sans-serif !important;
+    }
+    .agentic-page-wrapper h1, .agentic-page-wrapper h2, .agentic-page-wrapper h3, .agentic-page-wrapper p, .agentic-page-wrapper div {
+        font-family: 'Inter', sans-serif;
+    }
     .product-console {
         background: #ffffff;
         border: 1px solid #e5e7eb;
@@ -95,7 +102,9 @@ def run():
     # Wrap sections in a relative wrapper for the continuous thread
     # We will create a wrapper div and move all sections (except footer) into it
     thread_wrapper = soup.new_tag('div')
-    thread_wrapper['style'] = "position: relative; overflow: hidden; padding-top: 60px; padding-bottom: 60px;"
+    thread_wrapper['style'] = "position: relative; overflow: hidden; padding-top: 160px; padding-bottom: 80px;"
+    thread_wrapper['class'] = "agentic-page-wrapper"
+
     
     thread_line = soup.new_tag('div', **{'class': 'orchestration-thread-wrapper'})
     active_line = soup.new_tag('div', **{'class': 'orchestration-thread-active'})
