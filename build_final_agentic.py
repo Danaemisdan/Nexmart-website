@@ -2,7 +2,7 @@ import bs4
 import copy
 
 def run():
-    with open('agentic-commerce.html', 'r', encoding='utf-8') as f:
+    with open('index.html', 'r', encoding='utf-8') as f:
         soup = bs4.BeautifulSoup(f, 'html.parser')
     
     # ----------------------------------------------------
@@ -12,6 +12,13 @@ def run():
     prod_style = soup.new_tag('style')
     prod_style.string = """
     /* Product UI Framework (Reusable for all product pages) */
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+    .agentic-page-wrapper {
+        font-family: 'Inter', sans-serif !important;
+    }
+    .agentic-page-wrapper h1, .agentic-page-wrapper h2, .agentic-page-wrapper h3, .agentic-page-wrapper p, .agentic-page-wrapper div {
+        font-family: 'Inter', sans-serif;
+    }
     .product-console {
         background: #ffffff;
         border: 1px solid #e5e7eb;
@@ -95,20 +102,17 @@ def run():
     # Wrap sections in a relative wrapper for the continuous thread
     # We will create a wrapper div and move all sections (except footer) into it
     thread_wrapper = soup.new_tag('div')
-    thread_wrapper['style'] = "position: relative; overflow: hidden; padding-top: 60px; padding-bottom: 60px;"
+    thread_wrapper['style'] = "position: relative; overflow: hidden; padding-top: 160px; padding-bottom: 80px;"
+    thread_wrapper['class'] = "agentic-page-wrapper"
+
     
     thread_line = soup.new_tag('div', **{'class': 'orchestration-thread-wrapper'})
     active_line = soup.new_tag('div', **{'class': 'orchestration-thread-active'})
     thread_line.append(active_line)
     thread_wrapper.append(thread_line)
     
-    sections = main.find_all('section', recursive=False)
-    
-    for sec in sections:
-        # Move all sections to thread wrapper except the footer (if footer is a section? footer is usually footer tag)
-        thread_wrapper.append(sec)
-        
-    main.insert(0, thread_wrapper)
+    main.clear()
+    main.append(thread_wrapper)
     
     # Add Neural Ledger to body
     ledger = soup.new_tag('div', **{'class': 'neural-ledger'})
@@ -120,19 +124,19 @@ def run():
     # ----------------------------------------------------
     # 2. Mission Console (Hero)
     # ----------------------------------------------------
-    sec_hero = sections[0]
-    sec_hero.clear()
+    sec_hero = soup.new_tag('section')
+    thread_wrapper.append(sec_hero)
     
     hero_container = soup.new_tag('div', **{'class': 'container-large'})
     hero_container['style'] = "position: relative; z-index: 2; text-align: center; margin-bottom: 80px;"
     
     hero_title = soup.new_tag('h1', **{'class': 'margin-bottom'})
     hero_title.string = "Command your commerce."
-    hero_title['style'] = "font-size: 4rem; font-weight: 800; color: #111827; letter-spacing: -0.02em;"
+    hero_title['style'] = "font-size: 4rem; font-weight: 800; color: #111827; letter-spacing: -0.02em; background: white; display: inline-block; padding: 0 24px; position: relative;"
     
     hero_sub = soup.new_tag('p', **{'class': 'text-size-large margin-bottom'})
     hero_sub.string = "The intelligent engine that executes your complex procurement tasks."
-    hero_sub['style'] = "color: #6b7280; max-width: 600px; margin-left: auto; margin-right: auto;"
+    hero_sub['style'] = "color: #6b7280; max-width: 600px; margin-left: auto; margin-right: auto; background: white; display: inline-block; padding: 12px 24px; position: relative;"
     
     console_div = soup.new_tag('div', **{'class': 'product-console'})
     console_div['style'] = "text-align: left; max-width: 800px; margin: 40px auto 0;"
@@ -175,8 +179,8 @@ def run():
     # ----------------------------------------------------
     # 3. Checkpoint 1 (Discovery)
     # ----------------------------------------------------
-    sec_chk1 = sections[1]
-    sec_chk1.clear()
+    sec_chk1 = soup.new_tag('section')
+    thread_wrapper.append(sec_chk1)
     sec_chk1['style'] = "padding: 80px 0; position: relative; z-index: 2;"
     chk1_cont = soup.new_tag('div', **{'class': 'container-large'})
     
@@ -219,8 +223,8 @@ def run():
     # ----------------------------------------------------
     # 4. Checkpoint 2 (Negotiation High Fidelity UI)
     # ----------------------------------------------------
-    sec_chk2 = sections[2]
-    sec_chk2.clear()
+    sec_chk2 = soup.new_tag('section')
+    thread_wrapper.append(sec_chk2)
     sec_chk2['style'] = "padding: 80px 0; position: relative; z-index: 2;"
     chk2_cont = soup.new_tag('div', **{'class': 'container-large'})
     
@@ -254,8 +258,8 @@ def run():
     # ----------------------------------------------------
     # 5. Business Outcomes
     # ----------------------------------------------------
-    sec_out = sections[3]
-    sec_out.clear()
+    sec_out = soup.new_tag('section')
+    thread_wrapper.append(sec_out)
     sec_out['style'] = "padding: 80px 0; position: relative; z-index: 2;"
     out_cont = soup.new_tag('div', **{'class': 'container-large'})
     
@@ -281,11 +285,10 @@ def run():
     # ----------------------------------------------------
     # 6. Clean up remaining sections to preserve structure without fluff
     # ----------------------------------------------------
-    sec_4 = sections[4] # Used to be tabs
-    sec_4.clear()
+
     
-    sec_5 = sections[5] # Final CTA
-    sec_5.clear()
+    sec_5 = soup.new_tag('section')
+    thread_wrapper.append(sec_5)
     sec_5['style'] = "padding: 120px 0; position: relative; z-index: 2; text-align:center;"
     cta_cont = soup.new_tag('div', **{'class': 'container-large'})
     cta_html = """
